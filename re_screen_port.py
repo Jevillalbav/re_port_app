@@ -1,3 +1,4 @@
+#pip install -r requirements.txt
 import pandas as pd 
 import numpy as np
 import dash
@@ -72,7 +73,7 @@ fig.update_layout(width = 1600, height = 800)
 ## change theme 
 fig.update_layout(template = 'plotly_white')
 app = dash.Dash(__name__)
-
+server = app.server
 app.layout = html.Div([
     html.Label('Select a RE market of the company portfolio:'),
     # Dropdown for selecting category
