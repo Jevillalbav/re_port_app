@@ -1,0 +1,3025 @@
+,k,date,value,var,type
+0,Patricia Manor Place,2023-10-01,74740.7804,price,depression
+1,Patricia Manor Place,2024-01-01,74868.5741522602,price,depression
+2,Patricia Manor Place,2024-04-01,65643.62512893032,price,depression
+3,Patricia Manor Place,2024-07-01,61244.2812602597,price,depression
+4,Patricia Manor Place,2024-10-01,58925.24567870081,price,depression
+5,Patricia Manor Place,2025-01-01,57811.76882048943,price,depression
+6,Patricia Manor Place,2025-04-01,57223.24962012699,price,depression
+7,Patricia Manor Place,2025-07-01,56983.511552111326,price,depression
+8,Patricia Manor Place,2025-10-01,57017.56614277493,price,depression
+9,Patricia Manor Place,2026-01-01,57230.28123839434,price,depression
+10,Patricia Manor Place,2026-04-01,57584.85348323615,price,depression
+11,Patricia Manor Place,2026-07-01,58167.417293326514,price,depression
+12,Patricia Manor Place,2026-10-01,58807.500063302985,price,depression
+13,Patricia Manor Place,2027-01-01,59457.456505217546,price,depression
+14,Patricia Manor Place,2027-04-01,60054.982587645725,price,depression
+15,Patricia Manor Place,2027-07-01,60501.80410373728,price,depression
+16,Patricia Manor Place,2027-10-01,60891.745562527656,price,depression
+17,Patricia Manor Place,2028-01-01,61273.99508339227,price,depression
+18,Patricia Manor Place,2028-04-01,61687.73395892969,price,depression
+19,Patricia Manor Place,2028-07-01,62112.793803246386,price,depression
+20,Patricia Manor Place,2028-10-01,62556.43067270546,price,depression
+21,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,75850.7831,price,depression
+22,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,75899.7648,price,depression
+23,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,68356.2163,price,depression
+24,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,64674.4209,price,depression
+25,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,62834.903,price,depression
+26,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,62030.0632,price,depression
+27,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,61656.2264,price,depression
+28,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,61600.4637,price,depression
+29,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,61778.1258,price,depression
+30,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,62099.9156,price,depression
+31,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,62533.3772,price,depression
+32,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,63162.21910000001,price,depression
+33,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,63832.231100000005,price,depression
+34,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,64501.588200000006,price,depression
+35,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,65119.034600000006,price,depression
+36,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,65562.9361,price,depression
+37,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,65945.5555,price,depression
+38,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,66320.7833,price,depression
+39,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,66712.51359999999,price,depression
+40,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,67115.77259999998,price,depression
+41,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,67530.99689999998,price,depression
+42,Sutton Place,2023-10-01,84325.743,price,depression
+43,Sutton Place,2024-01-01,84469.92537343023,price,depression
+44,Sutton Place,2024-04-01,74061.94359472489,price,depression
+45,Sutton Place,2024-07-01,69098.41580637785,price,depression
+46,Sutton Place,2024-10-01,66481.98074359396,price,depression
+47,Sutton Place,2025-01-01,65225.70856019594,price,depression
+48,Sutton Place,2025-04-01,64561.71604399887,price,depression
+49,Sutton Place,2025-07-01,64291.233308835916,price,depression
+50,Sutton Place,2025-10-01,64329.65515357584,price,depression
+51,Sutton Place,2026-01-01,64569.64941627185,price,depression
+52,Sutton Place,2026-04-01,64969.692977945226,price,depression
+53,Sutton Place,2026-07-01,65626.96636829346,price,depression
+54,Sutton Place,2026-10-01,66349.13510764696,price,depression
+55,Sutton Place,2027-01-01,67082.44374569913,price,depression
+56,Sutton Place,2027-04-01,67756.5982112128,price,depression
+57,Sutton Place,2027-07-01,68260.72134360662,price,depression
+58,Sutton Place,2027-10-01,68700.66996419932,price,depression
+59,Sutton Place,2028-01-01,69131.94021165719,price,depression
+60,Sutton Place,2028-04-01,69598.73809496747,price,depression
+61,Sutton Place,2028-07-01,70078.30877913267,price,depression
+62,Sutton Place,2028-10-01,70578.83885707831,price,depression
+63,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,451573.0711,price,depression
+64,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,452051.28583743895,price,depression
+65,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,402818.81027103413,price,depression
+66,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,379331.44939955353,price,depression
+67,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,367126.5940995299,price,depression
+68,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,361821.2105266476,price,depression
+69,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,359117.11020514154,price,depression
+70,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,357702.1504048048,price,depression
+71,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,357366.0435025302,price,depression
+72,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,357806.44737458974,price,depression
+73,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,358751.35359572875,price,depression
+74,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,361049.359187154,price,depression
+75,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,363511.63656749396,price,depression
+76,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,365953.87134295935,price,depression
+77,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,368076.6405984908,price,depression
+78,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,369271.8207127982,price,depression
+79,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,370082.05450415367,price,depression
+80,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,370935.94528654474,price,depression
+81,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,372040.37272796244,price,depression
+82,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,373287.7601152906,price,depression
+83,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,374653.0366779646,price,depression
+84,el retiro Farm,2023-10-01,,price,depression
+85,el retiro Farm,2024-01-01,,price,depression
+86,el retiro Farm,2024-04-01,,price,depression
+87,el retiro Farm,2024-07-01,,price,depression
+88,el retiro Farm,2024-10-01,,price,depression
+89,el retiro Farm,2025-01-01,,price,depression
+90,el retiro Farm,2025-04-01,,price,depression
+91,el retiro Farm,2025-07-01,,price,depression
+92,el retiro Farm,2025-10-01,,price,depression
+93,el retiro Farm,2026-01-01,,price,depression
+94,el retiro Farm,2026-04-01,,price,depression
+95,el retiro Farm,2026-07-01,,price,depression
+96,el retiro Farm,2026-10-01,,price,depression
+97,el retiro Farm,2027-01-01,,price,depression
+98,el retiro Farm,2027-04-01,,price,depression
+99,el retiro Farm,2027-07-01,,price,depression
+100,el retiro Farm,2027-10-01,,price,depression
+101,el retiro Farm,2028-01-01,,price,depression
+102,el retiro Farm,2028-04-01,,price,depression
+103,el retiro Farm,2028-07-01,,price,depression
+104,el retiro Farm,2028-10-01,,price,depression
+105,la moraleja Property,2023-10-01,,price,depression
+106,la moraleja Property,2024-01-01,,price,depression
+107,la moraleja Property,2024-04-01,,price,depression
+108,la moraleja Property,2024-07-01,,price,depression
+109,la moraleja Property,2024-10-01,,price,depression
+110,la moraleja Property,2025-01-01,,price,depression
+111,la moraleja Property,2025-04-01,,price,depression
+112,la moraleja Property,2025-07-01,,price,depression
+113,la moraleja Property,2025-10-01,,price,depression
+114,la moraleja Property,2026-01-01,,price,depression
+115,la moraleja Property,2026-04-01,,price,depression
+116,la moraleja Property,2026-07-01,,price,depression
+117,la moraleja Property,2026-10-01,,price,depression
+118,la moraleja Property,2027-01-01,,price,depression
+119,la moraleja Property,2027-04-01,,price,depression
+120,la moraleja Property,2027-07-01,,price,depression
+121,la moraleja Property,2027-10-01,,price,depression
+122,la moraleja Property,2028-01-01,,price,depression
+123,la moraleja Property,2028-04-01,,price,depression
+124,la moraleja Property,2028-07-01,,price,depression
+125,la moraleja Property,2028-10-01,,price,depression
+126,la volcana Apartments,2023-10-01,,price,depression
+127,la volcana Apartments,2024-01-01,,price,depression
+128,la volcana Apartments,2024-04-01,,price,depression
+129,la volcana Apartments,2024-07-01,,price,depression
+130,la volcana Apartments,2024-10-01,,price,depression
+131,la volcana Apartments,2025-01-01,,price,depression
+132,la volcana Apartments,2025-04-01,,price,depression
+133,la volcana Apartments,2025-07-01,,price,depression
+134,la volcana Apartments,2025-10-01,,price,depression
+135,la volcana Apartments,2026-01-01,,price,depression
+136,la volcana Apartments,2026-04-01,,price,depression
+137,la volcana Apartments,2026-07-01,,price,depression
+138,la volcana Apartments,2026-10-01,,price,depression
+139,la volcana Apartments,2027-01-01,,price,depression
+140,la volcana Apartments,2027-04-01,,price,depression
+141,la volcana Apartments,2027-07-01,,price,depression
+142,la volcana Apartments,2027-10-01,,price,depression
+143,la volcana Apartments,2028-01-01,,price,depression
+144,la volcana Apartments,2028-04-01,,price,depression
+145,la volcana Apartments,2028-07-01,,price,depression
+146,la volcana Apartments,2028-10-01,,price,depression
+147,lagasca Property,2023-10-01,,price,depression
+148,lagasca Property,2024-01-01,,price,depression
+149,lagasca Property,2024-04-01,,price,depression
+150,lagasca Property,2024-07-01,,price,depression
+151,lagasca Property,2024-10-01,,price,depression
+152,lagasca Property,2025-01-01,,price,depression
+153,lagasca Property,2025-04-01,,price,depression
+154,lagasca Property,2025-07-01,,price,depression
+155,lagasca Property,2025-10-01,,price,depression
+156,lagasca Property,2026-01-01,,price,depression
+157,lagasca Property,2026-04-01,,price,depression
+158,lagasca Property,2026-07-01,,price,depression
+159,lagasca Property,2026-10-01,,price,depression
+160,lagasca Property,2027-01-01,,price,depression
+161,lagasca Property,2027-04-01,,price,depression
+162,lagasca Property,2027-07-01,,price,depression
+163,lagasca Property,2027-10-01,,price,depression
+164,lagasca Property,2028-01-01,,price,depression
+165,lagasca Property,2028-04-01,,price,depression
+166,lagasca Property,2028-07-01,,price,depression
+167,lagasca Property,2028-10-01,,price,depression
+168,Patricia Manor Place,2023-10-01,74740.7804,price,downside
+169,Patricia Manor Place,2024-01-01,74868.5741522602,price,downside
+170,Patricia Manor Place,2024-04-01,70267.5217188169,price,downside
+171,Patricia Manor Place,2024-07-01,68659.18380594382,price,downside
+172,Patricia Manor Place,2024-10-01,68113.0442613651,price,downside
+173,Patricia Manor Place,2025-01-01,67754.46662271576,price,downside
+174,Patricia Manor Place,2025-04-01,67000.4957971924,price,downside
+175,Patricia Manor Place,2025-07-01,66383.2331195317,price,downside
+176,Patricia Manor Place,2025-10-01,65970.22146192714,price,downside
+177,Patricia Manor Place,2026-01-01,65823.45474941352,price,downside
+178,Patricia Manor Place,2026-04-01,65867.34466983871,price,downside
+179,Patricia Manor Place,2026-07-01,66020.35393787913,price,downside
+180,Patricia Manor Place,2026-10-01,66232.18924899737,price,downside
+181,Patricia Manor Place,2027-01-01,66454.78956733605,price,downside
+182,Patricia Manor Place,2027-04-01,66704.8894080091,price,downside
+183,Patricia Manor Place,2027-07-01,66961.30824792065,price,downside
+184,Patricia Manor Place,2027-10-01,67227.86057213346,price,downside
+185,Patricia Manor Place,2028-01-01,67494.80706675461,price,downside
+186,Patricia Manor Place,2028-04-01,67778.0251628905,price,downside
+187,Patricia Manor Place,2028-07-01,68069.10741589124,price,downside
+188,Patricia Manor Place,2028-10-01,68381.82652805891,price,downside
+189,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,75850.7831,price,downside
+190,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,75899.7648,price,downside
+191,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,72765.483,price,downside
+192,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,71611.5287,price,downside
+193,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,71420.211,price,downside
+194,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,71149.5678,price,downside
+195,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,70605.6489,price,downside
+196,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,70124.7811,price,downside
+197,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,69780.936,price,downside
+198,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,69666.3533,price,downside
+199,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,69720.3833,price,downside
+200,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,69867.2349,price,downside
+201,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,70059.0751,price,downside
+202,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,70272.84429999998,price,downside
+203,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,70521.7568,price,downside
+204,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,70780.6143,price,downside
+205,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,71061.3084,price,downside
+206,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,71355.4282,price,downside
+207,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,71655.8856,price,downside
+208,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,71975.56549999998,price,downside
+209,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,72311.48889999998,price,downside
+210,Sutton Place,2023-10-01,84325.743,price,downside
+211,Sutton Place,2024-01-01,84469.92537343023,price,downside
+212,Sutton Place,2024-04-01,79278.82136092697,price,downside
+213,Sutton Place,2024-07-01,77464.22578442571,price,downside
+214,Sutton Place,2024-10-01,76848.04780726503,price,downside
+215,Sutton Place,2025-01-01,76443.48518910041,price,downside
+216,Sutton Place,2025-04-01,75592.82307770266,price,downside
+217,Sutton Place,2025-07-01,74896.4009418708,price,downside
+218,Sutton Place,2025-10-01,74430.42353691495,price,downside
+219,Sutton Place,2026-01-01,74264.83505878905,price,downside
+220,Sutton Place,2026-04-01,74314.35354294533,price,downside
+221,Sutton Place,2026-07-01,74486.9851390344,price,downside
+222,Sutton Place,2026-10-01,74725.98679125265,price,downside
+223,Sutton Place,2027-01-01,74977.13398473238,price,downside
+224,Sutton Place,2027-04-01,75259.30731468785,price,downside
+225,Sutton Place,2027-07-01,75548.61000966933,price,downside
+226,Sutton Place,2027-10-01,75849.3457347625,price,downside
+227,Sutton Place,2028-01-01,76150.52617975787,price,downside
+228,Sutton Place,2028-04-01,76470.0649410591,price,downside
+229,Sutton Place,2028-07-01,76798.4763802632,price,downside
+230,Sutton Place,2028-10-01,77151.29944877693,price,downside
+231,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,451573.0711,price,downside
+232,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,452051.28583743895,price,downside
+233,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,434687.26430940727,price,downside
+234,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,429190.7226240105,price,downside
+235,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,428199.4244222315,price,downside
+236,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,426404.8016197458,price,downside
+237,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,422556.815752966,price,downside
+238,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,418416.74480285053,price,downside
+239,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,414595.0102503109,price,downside
+240,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,412263.9325557298,price,downside
+241,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,410947.4709227454,price,downside
+242,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,410330.0253094174,price,downside
+243,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,410134.57385842345,price,downside
+244,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,410031.47723976633,price,downside
+245,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,410229.14927204524,price,downside
+246,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,410635.5289172044,price,downside
+247,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,411270.1834988354,price,downside
+248,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,411998.75750639255,price,downside
+249,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,412936.08264468086,price,downside
+250,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,414034.5891214474,price,downside
+251,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,415215.35994839075,price,downside
+252,el retiro Farm,2023-10-01,,price,downside
+253,el retiro Farm,2024-01-01,,price,downside
+254,el retiro Farm,2024-04-01,,price,downside
+255,el retiro Farm,2024-07-01,,price,downside
+256,el retiro Farm,2024-10-01,,price,downside
+257,el retiro Farm,2025-01-01,,price,downside
+258,el retiro Farm,2025-04-01,,price,downside
+259,el retiro Farm,2025-07-01,,price,downside
+260,el retiro Farm,2025-10-01,,price,downside
+261,el retiro Farm,2026-01-01,,price,downside
+262,el retiro Farm,2026-04-01,,price,downside
+263,el retiro Farm,2026-07-01,,price,downside
+264,el retiro Farm,2026-10-01,,price,downside
+265,el retiro Farm,2027-01-01,,price,downside
+266,el retiro Farm,2027-04-01,,price,downside
+267,el retiro Farm,2027-07-01,,price,downside
+268,el retiro Farm,2027-10-01,,price,downside
+269,el retiro Farm,2028-01-01,,price,downside
+270,el retiro Farm,2028-04-01,,price,downside
+271,el retiro Farm,2028-07-01,,price,downside
+272,el retiro Farm,2028-10-01,,price,downside
+273,la moraleja Property,2023-10-01,,price,downside
+274,la moraleja Property,2024-01-01,,price,downside
+275,la moraleja Property,2024-04-01,,price,downside
+276,la moraleja Property,2024-07-01,,price,downside
+277,la moraleja Property,2024-10-01,,price,downside
+278,la moraleja Property,2025-01-01,,price,downside
+279,la moraleja Property,2025-04-01,,price,downside
+280,la moraleja Property,2025-07-01,,price,downside
+281,la moraleja Property,2025-10-01,,price,downside
+282,la moraleja Property,2026-01-01,,price,downside
+283,la moraleja Property,2026-04-01,,price,downside
+284,la moraleja Property,2026-07-01,,price,downside
+285,la moraleja Property,2026-10-01,,price,downside
+286,la moraleja Property,2027-01-01,,price,downside
+287,la moraleja Property,2027-04-01,,price,downside
+288,la moraleja Property,2027-07-01,,price,downside
+289,la moraleja Property,2027-10-01,,price,downside
+290,la moraleja Property,2028-01-01,,price,downside
+291,la moraleja Property,2028-04-01,,price,downside
+292,la moraleja Property,2028-07-01,,price,downside
+293,la moraleja Property,2028-10-01,,price,downside
+294,la volcana Apartments,2023-10-01,,price,downside
+295,la volcana Apartments,2024-01-01,,price,downside
+296,la volcana Apartments,2024-04-01,,price,downside
+297,la volcana Apartments,2024-07-01,,price,downside
+298,la volcana Apartments,2024-10-01,,price,downside
+299,la volcana Apartments,2025-01-01,,price,downside
+300,la volcana Apartments,2025-04-01,,price,downside
+301,la volcana Apartments,2025-07-01,,price,downside
+302,la volcana Apartments,2025-10-01,,price,downside
+303,la volcana Apartments,2026-01-01,,price,downside
+304,la volcana Apartments,2026-04-01,,price,downside
+305,la volcana Apartments,2026-07-01,,price,downside
+306,la volcana Apartments,2026-10-01,,price,downside
+307,la volcana Apartments,2027-01-01,,price,downside
+308,la volcana Apartments,2027-04-01,,price,downside
+309,la volcana Apartments,2027-07-01,,price,downside
+310,la volcana Apartments,2027-10-01,,price,downside
+311,la volcana Apartments,2028-01-01,,price,downside
+312,la volcana Apartments,2028-04-01,,price,downside
+313,la volcana Apartments,2028-07-01,,price,downside
+314,la volcana Apartments,2028-10-01,,price,downside
+315,lagasca Property,2023-10-01,,price,downside
+316,lagasca Property,2024-01-01,,price,downside
+317,lagasca Property,2024-04-01,,price,downside
+318,lagasca Property,2024-07-01,,price,downside
+319,lagasca Property,2024-10-01,,price,downside
+320,lagasca Property,2025-01-01,,price,downside
+321,lagasca Property,2025-04-01,,price,downside
+322,lagasca Property,2025-07-01,,price,downside
+323,lagasca Property,2025-10-01,,price,downside
+324,lagasca Property,2026-01-01,,price,downside
+325,lagasca Property,2026-04-01,,price,downside
+326,lagasca Property,2026-07-01,,price,downside
+327,lagasca Property,2026-10-01,,price,downside
+328,lagasca Property,2027-01-01,,price,downside
+329,lagasca Property,2027-04-01,,price,downside
+330,lagasca Property,2027-07-01,,price,downside
+331,lagasca Property,2027-10-01,,price,downside
+332,lagasca Property,2028-01-01,,price,downside
+333,lagasca Property,2028-04-01,,price,downside
+334,lagasca Property,2028-07-01,,price,downside
+335,lagasca Property,2028-10-01,,price,downside
+336,Patricia Manor Place,2023-10-01,74740.7804,price,rateshock
+337,Patricia Manor Place,2024-01-01,74868.5741522602,price,rateshock
+338,Patricia Manor Place,2024-04-01,69770.11700566538,price,rateshock
+339,Patricia Manor Place,2024-07-01,67611.7617744955,price,rateshock
+340,Patricia Manor Place,2024-10-01,66185.28954793284,price,rateshock
+341,Patricia Manor Place,2025-01-01,64865.14073822572,price,rateshock
+342,Patricia Manor Place,2025-04-01,64125.90373625652,price,rateshock
+343,Patricia Manor Place,2025-07-01,63755.99758873464,price,rateshock
+344,Patricia Manor Place,2025-10-01,63732.414422936046,price,rateshock
+345,Patricia Manor Place,2026-01-01,64024.629615059166,price,rateshock
+346,Patricia Manor Place,2026-04-01,64489.73970761821,price,rateshock
+347,Patricia Manor Place,2026-07-01,65170.32152181477,price,rateshock
+348,Patricia Manor Place,2026-10-01,65767.90535814894,price,rateshock
+349,Patricia Manor Place,2027-01-01,66275.37080172292,price,rateshock
+350,Patricia Manor Place,2027-04-01,66704.88940800911,price,rateshock
+351,Patricia Manor Place,2027-07-01,66961.30824792066,price,rateshock
+352,Patricia Manor Place,2027-10-01,67227.86057213348,price,rateshock
+353,Patricia Manor Place,2028-01-01,67494.80706675463,price,rateshock
+354,Patricia Manor Place,2028-04-01,67778.02516289051,price,rateshock
+355,Patricia Manor Place,2028-07-01,68069.10741589124,price,rateshock
+356,Patricia Manor Place,2028-10-01,68381.82652805893,price,rateshock
+357,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,75850.7831,price,rateshock
+358,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,75899.7648,price,rateshock
+359,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,72312.7827,price,rateshock
+360,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,70634.7953,price,rateshock
+361,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,69285.1369,price,rateshock
+362,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,68265.3548,price,rateshock
+363,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,67728.0139,price,rateshock
+364,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,67477.9031,price,rateshock
+365,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,67521.9648,price,rateshock
+366,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,67849.55330000001,price,rateshock
+367,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,68330.51300000002,price,rateshock
+368,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,69011.16510000001,price,rateshock
+369,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,69593.0214,price,rateshock
+370,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,70093.0901,price,rateshock
+371,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,70521.7568,price,rateshock
+372,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,70780.6143,price,rateshock
+373,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,71061.3084,price,rateshock
+374,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,71355.4282,price,rateshock
+375,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,71655.8856,price,rateshock
+376,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,71975.56549999998,price,rateshock
+377,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,72311.48889999998,price,rateshock
+378,Sutton Place,2023-10-01,84325.743,price,rateshock
+379,Sutton Place,2024-01-01,84469.92537343023,price,rateshock
+380,Sutton Place,2024-04-01,78717.62810359508,price,rateshock
+381,Sutton Place,2024-07-01,76282.47947988154,price,rateshock
+382,Sutton Place,2024-10-01,74673.07254393575,price,rateshock
+383,Sutton Place,2025-01-01,73183.62423133667,price,rateshock
+384,Sutton Place,2025-04-01,72349.5854494223,price,rateshock
+385,Sutton Place,2025-07-01,71932.24152334723,price,rateshock
+386,Sutton Place,2025-10-01,71905.63398770717,price,rateshock
+387,Sutton Place,2026-01-01,72235.32365725296,price,rateshock
+388,Sutton Place,2026-04-01,72760.0807433034,price,rateshock
+389,Sutton Place,2026-07-01,73527.94223534655,price,rateshock
+390,Sutton Place,2026-10-01,74202.16186128545,price,rateshock
+391,Sutton Place,2027-01-01,74774.70606469331,price,rateshock
+392,Sutton Place,2027-04-01,75259.30731468785,price,rateshock
+393,Sutton Place,2027-07-01,75548.61000966934,price,rateshock
+394,Sutton Place,2027-10-01,75849.3457347625,price,rateshock
+395,Sutton Place,2028-01-01,76150.52617975787,price,rateshock
+396,Sutton Place,2028-04-01,76470.06494105911,price,rateshock
+397,Sutton Place,2028-07-01,76798.47638026321,price,rateshock
+398,Sutton Place,2028-10-01,77151.29944877695,price,rateshock
+399,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,451573.0711,price,rateshock
+400,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,452051.28583743895,price,rateshock
+401,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,431400.1637293769,price,rateshock
+402,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,422031.8928962385,price,rateshock
+403,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,413686.5549129207,price,rateshock
+404,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,407081.802367558,price,rateshock
+405,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,403394.91695069463,price,rateshock
+406,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,400925.02531246067,price,rateshock
+407,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,399750.8139721797,price,rateshock
+408,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,400374.9978271095,price,rateshock
+409,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,401874.7119597746,price,rateshock
+410,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,404751.6903594597,price,rateshock
+411,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,407079.9675925126,price,rateshock
+412,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,408843.4669353455,price,rateshock
+413,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,410229.1492720453,price,rateshock
+414,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,410635.5289172045,price,rateshock
+415,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,411270.1834988355,price,rateshock
+416,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,411998.7575063926,price,rateshock
+417,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,412936.0826446809,price,rateshock
+418,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,414034.58912144747,price,rateshock
+419,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,415215.3599483908,price,rateshock
+420,el retiro Farm,2023-10-01,,price,rateshock
+421,el retiro Farm,2024-01-01,,price,rateshock
+422,el retiro Farm,2024-04-01,,price,rateshock
+423,el retiro Farm,2024-07-01,,price,rateshock
+424,el retiro Farm,2024-10-01,,price,rateshock
+425,el retiro Farm,2025-01-01,,price,rateshock
+426,el retiro Farm,2025-04-01,,price,rateshock
+427,el retiro Farm,2025-07-01,,price,rateshock
+428,el retiro Farm,2025-10-01,,price,rateshock
+429,el retiro Farm,2026-01-01,,price,rateshock
+430,el retiro Farm,2026-04-01,,price,rateshock
+431,el retiro Farm,2026-07-01,,price,rateshock
+432,el retiro Farm,2026-10-01,,price,rateshock
+433,el retiro Farm,2027-01-01,,price,rateshock
+434,el retiro Farm,2027-04-01,,price,rateshock
+435,el retiro Farm,2027-07-01,,price,rateshock
+436,el retiro Farm,2027-10-01,,price,rateshock
+437,el retiro Farm,2028-01-01,,price,rateshock
+438,el retiro Farm,2028-04-01,,price,rateshock
+439,el retiro Farm,2028-07-01,,price,rateshock
+440,el retiro Farm,2028-10-01,,price,rateshock
+441,la moraleja Property,2023-10-01,,price,rateshock
+442,la moraleja Property,2024-01-01,,price,rateshock
+443,la moraleja Property,2024-04-01,,price,rateshock
+444,la moraleja Property,2024-07-01,,price,rateshock
+445,la moraleja Property,2024-10-01,,price,rateshock
+446,la moraleja Property,2025-01-01,,price,rateshock
+447,la moraleja Property,2025-04-01,,price,rateshock
+448,la moraleja Property,2025-07-01,,price,rateshock
+449,la moraleja Property,2025-10-01,,price,rateshock
+450,la moraleja Property,2026-01-01,,price,rateshock
+451,la moraleja Property,2026-04-01,,price,rateshock
+452,la moraleja Property,2026-07-01,,price,rateshock
+453,la moraleja Property,2026-10-01,,price,rateshock
+454,la moraleja Property,2027-01-01,,price,rateshock
+455,la moraleja Property,2027-04-01,,price,rateshock
+456,la moraleja Property,2027-07-01,,price,rateshock
+457,la moraleja Property,2027-10-01,,price,rateshock
+458,la moraleja Property,2028-01-01,,price,rateshock
+459,la moraleja Property,2028-04-01,,price,rateshock
+460,la moraleja Property,2028-07-01,,price,rateshock
+461,la moraleja Property,2028-10-01,,price,rateshock
+462,la volcana Apartments,2023-10-01,,price,rateshock
+463,la volcana Apartments,2024-01-01,,price,rateshock
+464,la volcana Apartments,2024-04-01,,price,rateshock
+465,la volcana Apartments,2024-07-01,,price,rateshock
+466,la volcana Apartments,2024-10-01,,price,rateshock
+467,la volcana Apartments,2025-01-01,,price,rateshock
+468,la volcana Apartments,2025-04-01,,price,rateshock
+469,la volcana Apartments,2025-07-01,,price,rateshock
+470,la volcana Apartments,2025-10-01,,price,rateshock
+471,la volcana Apartments,2026-01-01,,price,rateshock
+472,la volcana Apartments,2026-04-01,,price,rateshock
+473,la volcana Apartments,2026-07-01,,price,rateshock
+474,la volcana Apartments,2026-10-01,,price,rateshock
+475,la volcana Apartments,2027-01-01,,price,rateshock
+476,la volcana Apartments,2027-04-01,,price,rateshock
+477,la volcana Apartments,2027-07-01,,price,rateshock
+478,la volcana Apartments,2027-10-01,,price,rateshock
+479,la volcana Apartments,2028-01-01,,price,rateshock
+480,la volcana Apartments,2028-04-01,,price,rateshock
+481,la volcana Apartments,2028-07-01,,price,rateshock
+482,la volcana Apartments,2028-10-01,,price,rateshock
+483,lagasca Property,2023-10-01,,price,rateshock
+484,lagasca Property,2024-01-01,,price,rateshock
+485,lagasca Property,2024-04-01,,price,rateshock
+486,lagasca Property,2024-07-01,,price,rateshock
+487,lagasca Property,2024-10-01,,price,rateshock
+488,lagasca Property,2025-01-01,,price,rateshock
+489,lagasca Property,2025-04-01,,price,rateshock
+490,lagasca Property,2025-07-01,,price,rateshock
+491,lagasca Property,2025-10-01,,price,rateshock
+492,lagasca Property,2026-01-01,,price,rateshock
+493,lagasca Property,2026-04-01,,price,rateshock
+494,lagasca Property,2026-07-01,,price,rateshock
+495,lagasca Property,2026-10-01,,price,rateshock
+496,lagasca Property,2027-01-01,,price,rateshock
+497,lagasca Property,2027-04-01,,price,rateshock
+498,lagasca Property,2027-07-01,,price,rateshock
+499,lagasca Property,2027-10-01,,price,rateshock
+500,lagasca Property,2028-01-01,,price,rateshock
+501,lagasca Property,2028-04-01,,price,rateshock
+502,lagasca Property,2028-07-01,,price,rateshock
+503,lagasca Property,2028-10-01,,price,rateshock
+504,Patricia Manor Place,2023-10-01,74740.7804,price,sdownside
+505,Patricia Manor Place,2024-01-01,74868.5741522602,price,sdownside
+506,Patricia Manor Place,2024-04-01,66990.54584197018,price,sdownside
+507,Patricia Manor Place,2024-07-01,62696.124617293724,price,sdownside
+508,Patricia Manor Place,2024-10-01,60460.03928641103,price,sdownside
+509,Patricia Manor Place,2025-01-01,58726.55419401947,price,sdownside
+510,Patricia Manor Place,2025-04-01,57541.134979612456,price,sdownside
+511,Patricia Manor Place,2025-07-01,56839.60582371541,price,sdownside
+512,Patricia Manor Place,2025-10-01,56670.76308170811,price,sdownside
+513,Patricia Manor Place,2026-01-01,56907.335192896986,price,sdownside
+514,Patricia Manor Place,2026-04-01,57428.03919535644,price,sdownside
+515,Patricia Manor Place,2026-07-01,58249.90992451156,price,sdownside
+516,Patricia Manor Place,2026-10-01,59146.56217583771,price,sdownside
+517,Patricia Manor Place,2027-01-01,60036.48994737709,price,sdownside
+518,Patricia Manor Place,2027-04-01,60840.131378032114,price,sdownside
+519,Patricia Manor Place,2027-07-01,61435.35075341253,price,sdownside
+520,Patricia Manor Place,2027-10-01,61906.391610619845,price,sdownside
+521,Patricia Manor Place,2028-01-01,62308.694009566,price,sdownside
+522,Patricia Manor Place,2028-04-01,62696.620017465044,price,sdownside
+523,Patricia Manor Place,2028-07-01,63074.01957386088,price,sdownside
+524,Patricia Manor Place,2028-10-01,63453.95629143211,price,sdownside
+525,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,75850.7831,price,sdownside
+526,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,75899.7648,price,sdownside
+527,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,69399.18,price,sdownside
+528,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,65710.9816,price,sdownside
+529,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,63878.9486,price,sdownside
+530,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,62494.9753,price,sdownside
+531,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,61570.409999999996,price,sdownside
+532,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,61034.5444,price,sdownside
+533,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,60973.0594,price,sdownside
+534,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,61281.59219999999,price,sdownside
+535,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,61843.35899999999,price,sdownside
+536,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,62660.68319999999,price,sdownside
+537,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,63527.0116,price,sdownside
+538,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,64373.465599999996,price,sdownside
+539,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,65141.20999999999,price,sdownside
+540,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,65690.30009999998,price,sdownside
+541,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,66129.46239999999,price,sdownside
+542,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,66518.31259999999,price,sdownside
+543,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,66894.78039999999,price,sdownside
+544,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,67274.27179999999,price,sdownside
+545,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,67663.64099999999,price,sdownside
+546,Sutton Place,2023-10-01,84325.743,price,sdownside
+547,Sutton Place,2024-01-01,84469.92537343023,price,sdownside
+548,Sutton Place,2024-04-01,75581.59711294231,price,sdownside
+549,Sutton Place,2024-07-01,70736.44753612827,price,sdownside
+550,Sutton Place,2024-10-01,68213.60049159722,price,sdownside
+551,Sutton Place,2025-01-01,66257.80851815213,price,sdownside
+552,Sutton Place,2025-04-01,64920.36789355106,price,sdownside
+553,Sutton Place,2025-07-01,64128.87271527511,price,sdownside
+554,Sutton Place,2025-10-01,63938.37711710602,price,sdownside
+555,Sutton Place,2026-01-01,64205.28788445841,price,sdownside
+556,Sutton Place,2026-04-01,64792.76839584021,price,sdownside
+557,Sutton Place,2026-07-01,65720.03808067691,price,sdownside
+558,Sutton Place,2026-10-01,66731.67947512107,price,sdownside
+559,Sutton Place,2027-01-01,67735.73402405369,price,sdownside
+560,Sutton Place,2027-04-01,68642.4366351702,price,sdownside
+561,Sutton Place,2027-07-01,69313.98857519985,price,sdownside
+562,Sutton Place,2027-10-01,69845.43700341781,price,sdownside
+563,Sutton Place,2028-01-01,70299.33176502265,price,sdownside
+564,Sutton Place,2028-04-01,70737.00646777582,price,sdownside
+565,Sutton Place,2028-07-01,71162.80477802399,price,sdownside
+566,Sutton Place,2028-10-01,71591.46562195297,price,sdownside
+567,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,451573.0711,price,sdownside
+568,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,452051.28583743895,price,sdownside
+569,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,411942.0694558972,price,sdownside
+570,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,389845.2589684354,price,sdownside
+571,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,378357.64371512464,price,sdownside
+572,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,369707.3208255803,price,sdownside
+573,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,363853.42362263444,price,sdownside
+574,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,359872.5384345652,price,sdownside
+575,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,358327.3655157149,price,sdownside
+576,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,358787.0743358025,price,sdownside
+577,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,360497.27943507605,price,sdownside
+578,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,363886.89372873685,price,sdownside
+579,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,367450.4709244946,price,sdownside
+580,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,370887.750730166,price,sdownside
+581,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,373842.8464044601,price,sdownside
+582,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,375661.55721563764,price,sdownside
+583,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,376831.85243719677,price,sdownside
+584,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,377824.9706803989,price,sdownside
+585,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,378887.95293043676,price,sdownside
+586,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,380035.01371765503,price,sdownside
+587,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,381239.495723827,price,sdownside
+588,el retiro Farm,2023-10-01,,price,sdownside
+589,el retiro Farm,2024-01-01,,price,sdownside
+590,el retiro Farm,2024-04-01,,price,sdownside
+591,el retiro Farm,2024-07-01,,price,sdownside
+592,el retiro Farm,2024-10-01,,price,sdownside
+593,el retiro Farm,2025-01-01,,price,sdownside
+594,el retiro Farm,2025-04-01,,price,sdownside
+595,el retiro Farm,2025-07-01,,price,sdownside
+596,el retiro Farm,2025-10-01,,price,sdownside
+597,el retiro Farm,2026-01-01,,price,sdownside
+598,el retiro Farm,2026-04-01,,price,sdownside
+599,el retiro Farm,2026-07-01,,price,sdownside
+600,el retiro Farm,2026-10-01,,price,sdownside
+601,el retiro Farm,2027-01-01,,price,sdownside
+602,el retiro Farm,2027-04-01,,price,sdownside
+603,el retiro Farm,2027-07-01,,price,sdownside
+604,el retiro Farm,2027-10-01,,price,sdownside
+605,el retiro Farm,2028-01-01,,price,sdownside
+606,el retiro Farm,2028-04-01,,price,sdownside
+607,el retiro Farm,2028-07-01,,price,sdownside
+608,el retiro Farm,2028-10-01,,price,sdownside
+609,la moraleja Property,2023-10-01,,price,sdownside
+610,la moraleja Property,2024-01-01,,price,sdownside
+611,la moraleja Property,2024-04-01,,price,sdownside
+612,la moraleja Property,2024-07-01,,price,sdownside
+613,la moraleja Property,2024-10-01,,price,sdownside
+614,la moraleja Property,2025-01-01,,price,sdownside
+615,la moraleja Property,2025-04-01,,price,sdownside
+616,la moraleja Property,2025-07-01,,price,sdownside
+617,la moraleja Property,2025-10-01,,price,sdownside
+618,la moraleja Property,2026-01-01,,price,sdownside
+619,la moraleja Property,2026-04-01,,price,sdownside
+620,la moraleja Property,2026-07-01,,price,sdownside
+621,la moraleja Property,2026-10-01,,price,sdownside
+622,la moraleja Property,2027-01-01,,price,sdownside
+623,la moraleja Property,2027-04-01,,price,sdownside
+624,la moraleja Property,2027-07-01,,price,sdownside
+625,la moraleja Property,2027-10-01,,price,sdownside
+626,la moraleja Property,2028-01-01,,price,sdownside
+627,la moraleja Property,2028-04-01,,price,sdownside
+628,la moraleja Property,2028-07-01,,price,sdownside
+629,la moraleja Property,2028-10-01,,price,sdownside
+630,la volcana Apartments,2023-10-01,,price,sdownside
+631,la volcana Apartments,2024-01-01,,price,sdownside
+632,la volcana Apartments,2024-04-01,,price,sdownside
+633,la volcana Apartments,2024-07-01,,price,sdownside
+634,la volcana Apartments,2024-10-01,,price,sdownside
+635,la volcana Apartments,2025-01-01,,price,sdownside
+636,la volcana Apartments,2025-04-01,,price,sdownside
+637,la volcana Apartments,2025-07-01,,price,sdownside
+638,la volcana Apartments,2025-10-01,,price,sdownside
+639,la volcana Apartments,2026-01-01,,price,sdownside
+640,la volcana Apartments,2026-04-01,,price,sdownside
+641,la volcana Apartments,2026-07-01,,price,sdownside
+642,la volcana Apartments,2026-10-01,,price,sdownside
+643,la volcana Apartments,2027-01-01,,price,sdownside
+644,la volcana Apartments,2027-04-01,,price,sdownside
+645,la volcana Apartments,2027-07-01,,price,sdownside
+646,la volcana Apartments,2027-10-01,,price,sdownside
+647,la volcana Apartments,2028-01-01,,price,sdownside
+648,la volcana Apartments,2028-04-01,,price,sdownside
+649,la volcana Apartments,2028-07-01,,price,sdownside
+650,la volcana Apartments,2028-10-01,,price,sdownside
+651,lagasca Property,2023-10-01,,price,sdownside
+652,lagasca Property,2024-01-01,,price,sdownside
+653,lagasca Property,2024-04-01,,price,sdownside
+654,lagasca Property,2024-07-01,,price,sdownside
+655,lagasca Property,2024-10-01,,price,sdownside
+656,lagasca Property,2025-01-01,,price,sdownside
+657,lagasca Property,2025-04-01,,price,sdownside
+658,lagasca Property,2025-07-01,,price,sdownside
+659,lagasca Property,2025-10-01,,price,sdownside
+660,lagasca Property,2026-01-01,,price,sdownside
+661,lagasca Property,2026-04-01,,price,sdownside
+662,lagasca Property,2026-07-01,,price,sdownside
+663,lagasca Property,2026-10-01,,price,sdownside
+664,lagasca Property,2027-01-01,,price,sdownside
+665,lagasca Property,2027-04-01,,price,sdownside
+666,lagasca Property,2027-07-01,,price,sdownside
+667,lagasca Property,2027-10-01,,price,sdownside
+668,lagasca Property,2028-01-01,,price,sdownside
+669,lagasca Property,2028-04-01,,price,sdownside
+670,lagasca Property,2028-07-01,,price,sdownside
+671,lagasca Property,2028-10-01,,price,sdownside
+672,Patricia Manor Place,2023-10-01,74740.7804,price,trend
+673,Patricia Manor Place,2024-01-01,74868.5741522602,price,trend
+674,Patricia Manor Place,2024-04-01,72830.76439772203,price,trend
+675,Patricia Manor Place,2024-07-01,72160.68248427466,price,trend
+676,Patricia Manor Place,2024-10-01,71930.80389036184,price,trend
+677,Patricia Manor Place,2025-01-01,71730.82072353041,price,trend
+678,Patricia Manor Place,2025-04-01,71685.96198133234,price,trend
+679,Patricia Manor Place,2025-07-01,71756.23051703325,price,trend
+680,Patricia Manor Place,2025-10-01,72018.55886494713,price,trend
+681,Patricia Manor Place,2026-01-01,72653.95811400334,price,trend
+682,Patricia Manor Place,2026-04-01,73753.58470320835,price,trend
+683,Patricia Manor Place,2026-07-01,73997.02952920934,price,trend
+684,Patricia Manor Place,2026-10-01,74273.35501752105,price,trend
+685,Patricia Manor Place,2027-01-01,74555.14049593352,price,trend
+686,Patricia Manor Place,2027-04-01,74853.51947367282,price,trend
+687,Patricia Manor Place,2027-07-01,75160.0852280129,price,trend
+688,Patricia Manor Place,2027-10-01,75482.40376127897,price,trend
+689,Patricia Manor Place,2028-01-01,75815.30088499116,price,trend
+690,Patricia Manor Place,2028-04-01,76163.40012017848,price,trend
+691,Patricia Manor Place,2028-07-01,76522.96502976512,price,trend
+692,Patricia Manor Place,2028-10-01,76896.95911105184,price,trend
+693,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,75850.7831,price,trend
+694,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,75899.7648,price,trend
+695,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,75084.0264,price,trend
+696,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,74800.0641,price,trend
+697,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,74878.6286,price,trend
+698,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,74958.775,price,trend
+699,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,75115.6049,price,trend
+700,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,75354.5277,price,trend
+701,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,75784.557,price,trend
+702,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,76606.3177,price,trend
+703,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,77241.7451,price,trend
+704,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,77462.9092,price,trend
+705,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,77704.1848,price,trend
+706,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,77971.6768,price,trend
+707,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,78248.859,price,trend
+708,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,78549.8178,price,trend
+709,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,78870.6253,price,trend
+710,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,79216.62290000002,price,trend
+711,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,79567.25130000002,price,trend
+712,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,79926.09480000002,price,trend
+713,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,80299.31440000002,price,trend
+714,Sutton Place,2023-10-01,84325.743,price,trend
+715,Sutton Place,2024-01-01,84469.92537343023,price,trend
+716,Sutton Place,2024-04-01,82170.78130877875,price,trend
+717,Sutton Place,2024-07-01,81414.76625354511,price,trend
+718,Sutton Place,2024-10-01,81155.4073984763,price,trend
+719,Sutton Place,2025-01-01,80929.77784202396,price,trend
+720,Sutton Place,2025-04-01,80879.16629173438,price,trend
+721,Sutton Place,2025-07-01,80958.44625711326,price,trend
+722,Sutton Place,2025-10-01,81254.41631160576,price,trend
+723,Sutton Place,2026-01-01,81971.30090247506,price,trend
+724,Sutton Place,2026-04-01,83211.94662039517,price,trend
+725,Sutton Place,2026-07-01,83486.61147835055,price,trend
+726,Sutton Place,2026-10-01,83798.37370490235,price,trend
+727,Sutton Place,2027-01-01,84116.29612565541,price,trend
+728,Sutton Place,2027-04-01,84452.94004158443,price,trend
+729,Sutton Place,2027-07-01,84798.82062879173,price,trend
+730,Sutton Place,2027-10-01,85162.47417448484,price,trend
+731,Sutton Place,2028-01-01,85538.0629380669,price,trend
+732,Sutton Place,2028-04-01,85930.80337358025,price,trend
+733,Sutton Place,2028-07-01,86336.47987301402,price,trend
+734,Sutton Place,2028-10-01,86758.43598068807,price,trend
+735,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,451573.0711,price,trend
+736,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,452051.28583743895,price,trend
+737,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,448877.02011732425,price,trend
+738,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,448711.85816393705,price,trend
+739,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,449212.61680694664,price,trend
+740,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,448864.9217644513,price,trend
+741,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,448701.32567311096,price,trend
+742,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,448431.1215799207,price,trend
+743,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,448995.17283911747,price,trend
+744,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,451864.28172822203,price,trend
+745,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,455342.42840620864,price,trend
+746,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,456278.73799787543,price,trend
+747,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,457538.38795454113,price,trend
+748,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,458909.61455881613,price,trend
+749,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,460567.6108238905,price,trend
+750,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,462363.90535584075,price,trend
+751,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,464406.89097384975,price,trend
+752,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,466507.982582737,price,trend
+753,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,468823.72335719725,price,trend
+754,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,471238.13432136696,price,trend
+755,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,473672.32278278534,price,trend
+756,el retiro Farm,2023-10-01,,price,trend
+757,el retiro Farm,2024-01-01,,price,trend
+758,el retiro Farm,2024-04-01,,price,trend
+759,el retiro Farm,2024-07-01,,price,trend
+760,el retiro Farm,2024-10-01,,price,trend
+761,el retiro Farm,2025-01-01,,price,trend
+762,el retiro Farm,2025-04-01,,price,trend
+763,el retiro Farm,2025-07-01,,price,trend
+764,el retiro Farm,2025-10-01,,price,trend
+765,el retiro Farm,2026-01-01,,price,trend
+766,el retiro Farm,2026-04-01,,price,trend
+767,el retiro Farm,2026-07-01,,price,trend
+768,el retiro Farm,2026-10-01,,price,trend
+769,el retiro Farm,2027-01-01,,price,trend
+770,el retiro Farm,2027-04-01,,price,trend
+771,el retiro Farm,2027-07-01,,price,trend
+772,el retiro Farm,2027-10-01,,price,trend
+773,el retiro Farm,2028-01-01,,price,trend
+774,el retiro Farm,2028-04-01,,price,trend
+775,el retiro Farm,2028-07-01,,price,trend
+776,el retiro Farm,2028-10-01,,price,trend
+777,la moraleja Property,2023-10-01,,price,trend
+778,la moraleja Property,2024-01-01,,price,trend
+779,la moraleja Property,2024-04-01,,price,trend
+780,la moraleja Property,2024-07-01,,price,trend
+781,la moraleja Property,2024-10-01,,price,trend
+782,la moraleja Property,2025-01-01,,price,trend
+783,la moraleja Property,2025-04-01,,price,trend
+784,la moraleja Property,2025-07-01,,price,trend
+785,la moraleja Property,2025-10-01,,price,trend
+786,la moraleja Property,2026-01-01,,price,trend
+787,la moraleja Property,2026-04-01,,price,trend
+788,la moraleja Property,2026-07-01,,price,trend
+789,la moraleja Property,2026-10-01,,price,trend
+790,la moraleja Property,2027-01-01,,price,trend
+791,la moraleja Property,2027-04-01,,price,trend
+792,la moraleja Property,2027-07-01,,price,trend
+793,la moraleja Property,2027-10-01,,price,trend
+794,la moraleja Property,2028-01-01,,price,trend
+795,la moraleja Property,2028-04-01,,price,trend
+796,la moraleja Property,2028-07-01,,price,trend
+797,la moraleja Property,2028-10-01,,price,trend
+798,la volcana Apartments,2023-10-01,,price,trend
+799,la volcana Apartments,2024-01-01,,price,trend
+800,la volcana Apartments,2024-04-01,,price,trend
+801,la volcana Apartments,2024-07-01,,price,trend
+802,la volcana Apartments,2024-10-01,,price,trend
+803,la volcana Apartments,2025-01-01,,price,trend
+804,la volcana Apartments,2025-04-01,,price,trend
+805,la volcana Apartments,2025-07-01,,price,trend
+806,la volcana Apartments,2025-10-01,,price,trend
+807,la volcana Apartments,2026-01-01,,price,trend
+808,la volcana Apartments,2026-04-01,,price,trend
+809,la volcana Apartments,2026-07-01,,price,trend
+810,la volcana Apartments,2026-10-01,,price,trend
+811,la volcana Apartments,2027-01-01,,price,trend
+812,la volcana Apartments,2027-04-01,,price,trend
+813,la volcana Apartments,2027-07-01,,price,trend
+814,la volcana Apartments,2027-10-01,,price,trend
+815,la volcana Apartments,2028-01-01,,price,trend
+816,la volcana Apartments,2028-04-01,,price,trend
+817,la volcana Apartments,2028-07-01,,price,trend
+818,la volcana Apartments,2028-10-01,,price,trend
+819,lagasca Property,2023-10-01,,price,trend
+820,lagasca Property,2024-01-01,,price,trend
+821,lagasca Property,2024-04-01,,price,trend
+822,lagasca Property,2024-07-01,,price,trend
+823,lagasca Property,2024-10-01,,price,trend
+824,lagasca Property,2025-01-01,,price,trend
+825,lagasca Property,2025-04-01,,price,trend
+826,lagasca Property,2025-07-01,,price,trend
+827,lagasca Property,2025-10-01,,price,trend
+828,lagasca Property,2026-01-01,,price,trend
+829,lagasca Property,2026-04-01,,price,trend
+830,lagasca Property,2026-07-01,,price,trend
+831,lagasca Property,2026-10-01,,price,trend
+832,lagasca Property,2027-01-01,,price,trend
+833,lagasca Property,2027-04-01,,price,trend
+834,lagasca Property,2027-07-01,,price,trend
+835,lagasca Property,2027-10-01,,price,trend
+836,lagasca Property,2028-01-01,,price,trend
+837,lagasca Property,2028-04-01,,price,trend
+838,lagasca Property,2028-07-01,,price,trend
+839,lagasca Property,2028-10-01,,price,trend
+840,Patricia Manor Place,2023-10-01,74740.7804,price,upside
+841,Patricia Manor Place,2024-01-01,74868.5741522602,price,upside
+842,Patricia Manor Place,2024-04-01,73182.65966880771,price,upside
+843,Patricia Manor Place,2024-07-01,72871.57868201227,price,upside
+844,Patricia Manor Place,2024-10-01,73033.91536629669,price,upside
+845,Patricia Manor Place,2025-01-01,73104.79264420946,price,upside
+846,Patricia Manor Place,2025-04-01,73102.07829084196,price,upside
+847,Patricia Manor Place,2025-07-01,73041.8906192168,price,upside
+848,Patricia Manor Place,2025-10-01,72964.03434326216,price,upside
+849,Patricia Manor Place,2026-01-01,72937.77580798262,price,upside
+850,Patricia Manor Place,2026-04-01,74303.90097818236,price,upside
+851,Patricia Manor Place,2026-07-01,75715.02751064248,price,upside
+852,Patricia Manor Place,2026-10-01,75793.35496221345,price,upside
+853,Patricia Manor Place,2027-01-01,75874.27636630068,price,upside
+854,Patricia Manor Place,2027-04-01,75968.34408345133,price,upside
+855,Patricia Manor Place,2027-07-01,76073.08937482587,price,upside
+856,Patricia Manor Place,2027-10-01,76188.55884461784,price,upside
+857,Patricia Manor Place,2028-01-01,76317.50839692156,price,upside
+858,Patricia Manor Place,2028-04-01,76459.19918280923,price,upside
+859,Patricia Manor Place,2028-07-01,76610.59815965156,price,upside
+860,Patricia Manor Place,2028-10-01,76780.50798528567,price,upside
+861,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,75850.7831,price,upside
+862,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,75899.7648,price,upside
+863,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,75405.1045,price,upside
+864,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,75457.43989999998,price,upside
+865,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,75910.1862,price,upside
+866,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,76258.9515,price,upside
+867,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,76471.5923,price,upside
+868,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,76609.39400000001,price,upside
+869,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,76727.02330000003,price,upside
+870,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,76863.53430000003,price,upside
+871,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,78244.23670000004,price,upside
+872,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,79633.34900000005,price,upside
+873,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,79752.99380000004,price,upside
+874,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,79899.25340000005,price,upside
+875,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,80055.14220000006,price,upside
+876,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,80235.26800000005,price,upside
+877,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,80431.59150000004,price,upside
+878,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,80655.76480000003,price,upside
+879,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,80880.06510000005,price,upside
+880,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,81114.83950000005,price,upside
+881,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,81360.46690000003,price,upside
+882,Sutton Place,2023-10-01,84325.743,price,upside
+883,Sutton Place,2024-01-01,84469.92537343023,price,upside
+884,Sutton Place,2024-04-01,82567.80459424188,price,upside
+885,Sutton Place,2024-07-01,82216.82972878948,price,upside
+886,Sutton Place,2024-10-01,82399.98491455523,price,upside
+887,Sutton Place,2025-01-01,82479.95168891623,price,upside
+888,Sutton Place,2025-04-01,82476.88923943078,price,upside
+889,Sutton Place,2025-07-01,82408.98293577608,price,upside
+890,Sutton Place,2025-10-01,82321.14215752955,price,upside
+891,Sutton Place,2026-01-01,82291.51615569108,price,upside
+892,Sutton Place,2026-04-01,83832.83696330864,price,upside
+893,Sutton Place,2026-07-01,85424.93023126591,price,upside
+894,Sutton Place,2026-10-01,85513.30260998165,price,upside
+895,Sutton Place,2027-01-01,85604.60159679635,price,upside
+896,Sutton Place,2027-04-01,85710.73281590578,price,upside
+897,Sutton Place,2027-07-01,85828.91093063293,price,upside
+898,Sutton Place,2027-10-01,85959.18852182096,price,upside
+899,Sutton Place,2028-01-01,86104.67491826123,price,upside
+900,Sutton Place,2028-04-01,86264.53651901367,price,upside
+901,Sutton Place,2028-07-01,86435.35131574637,price,upside
+902,Sutton Place,2028-10-01,86627.05084327226,price,upside
+903,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,451573.0711,price,upside
+904,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,452051.28583743895,price,upside
+905,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,451035.98773598025,price,upside
+906,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,453173.7447930879,price,upside
+907,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,456245.8716775621,price,upside
+908,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,457708.1204531673,price,upside
+909,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,457910.0439648269,price,upside
+910,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,456894.5831105084,price,upside
+911,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,455433.0649664465,price,upside
+912,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,454250.3800370748,price,upside
+913,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,459808.81620572816,price,upside
+914,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,467736.35852359707,price,upside
+915,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,467942.42267096316,price,upside
+916,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,468268.22618535813,price,upside
+917,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,468856.5316211845,price,upside
+918,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,469581.18736339937,price,upside
+919,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,470510.43174413993,price,upside
+920,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,471482.5523315133,price,upside
+921,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,472666.59168081713,price,upside
+922,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,473920.5790478752,price,upside
+923,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,475212.0145014562,price,upside
+924,el retiro Farm,2023-10-01,,price,upside
+925,el retiro Farm,2024-01-01,,price,upside
+926,el retiro Farm,2024-04-01,,price,upside
+927,el retiro Farm,2024-07-01,,price,upside
+928,el retiro Farm,2024-10-01,,price,upside
+929,el retiro Farm,2025-01-01,,price,upside
+930,el retiro Farm,2025-04-01,,price,upside
+931,el retiro Farm,2025-07-01,,price,upside
+932,el retiro Farm,2025-10-01,,price,upside
+933,el retiro Farm,2026-01-01,,price,upside
+934,el retiro Farm,2026-04-01,,price,upside
+935,el retiro Farm,2026-07-01,,price,upside
+936,el retiro Farm,2026-10-01,,price,upside
+937,el retiro Farm,2027-01-01,,price,upside
+938,el retiro Farm,2027-04-01,,price,upside
+939,el retiro Farm,2027-07-01,,price,upside
+940,el retiro Farm,2027-10-01,,price,upside
+941,el retiro Farm,2028-01-01,,price,upside
+942,el retiro Farm,2028-04-01,,price,upside
+943,el retiro Farm,2028-07-01,,price,upside
+944,el retiro Farm,2028-10-01,,price,upside
+945,la moraleja Property,2023-10-01,,price,upside
+946,la moraleja Property,2024-01-01,,price,upside
+947,la moraleja Property,2024-04-01,,price,upside
+948,la moraleja Property,2024-07-01,,price,upside
+949,la moraleja Property,2024-10-01,,price,upside
+950,la moraleja Property,2025-01-01,,price,upside
+951,la moraleja Property,2025-04-01,,price,upside
+952,la moraleja Property,2025-07-01,,price,upside
+953,la moraleja Property,2025-10-01,,price,upside
+954,la moraleja Property,2026-01-01,,price,upside
+955,la moraleja Property,2026-04-01,,price,upside
+956,la moraleja Property,2026-07-01,,price,upside
+957,la moraleja Property,2026-10-01,,price,upside
+958,la moraleja Property,2027-01-01,,price,upside
+959,la moraleja Property,2027-04-01,,price,upside
+960,la moraleja Property,2027-07-01,,price,upside
+961,la moraleja Property,2027-10-01,,price,upside
+962,la moraleja Property,2028-01-01,,price,upside
+963,la moraleja Property,2028-04-01,,price,upside
+964,la moraleja Property,2028-07-01,,price,upside
+965,la moraleja Property,2028-10-01,,price,upside
+966,la volcana Apartments,2023-10-01,,price,upside
+967,la volcana Apartments,2024-01-01,,price,upside
+968,la volcana Apartments,2024-04-01,,price,upside
+969,la volcana Apartments,2024-07-01,,price,upside
+970,la volcana Apartments,2024-10-01,,price,upside
+971,la volcana Apartments,2025-01-01,,price,upside
+972,la volcana Apartments,2025-04-01,,price,upside
+973,la volcana Apartments,2025-07-01,,price,upside
+974,la volcana Apartments,2025-10-01,,price,upside
+975,la volcana Apartments,2026-01-01,,price,upside
+976,la volcana Apartments,2026-04-01,,price,upside
+977,la volcana Apartments,2026-07-01,,price,upside
+978,la volcana Apartments,2026-10-01,,price,upside
+979,la volcana Apartments,2027-01-01,,price,upside
+980,la volcana Apartments,2027-04-01,,price,upside
+981,la volcana Apartments,2027-07-01,,price,upside
+982,la volcana Apartments,2027-10-01,,price,upside
+983,la volcana Apartments,2028-01-01,,price,upside
+984,la volcana Apartments,2028-04-01,,price,upside
+985,la volcana Apartments,2028-07-01,,price,upside
+986,la volcana Apartments,2028-10-01,,price,upside
+987,lagasca Property,2023-10-01,,price,upside
+988,lagasca Property,2024-01-01,,price,upside
+989,lagasca Property,2024-04-01,,price,upside
+990,lagasca Property,2024-07-01,,price,upside
+991,lagasca Property,2024-10-01,,price,upside
+992,lagasca Property,2025-01-01,,price,upside
+993,lagasca Property,2025-04-01,,price,upside
+994,lagasca Property,2025-07-01,,price,upside
+995,lagasca Property,2025-10-01,,price,upside
+996,lagasca Property,2026-01-01,,price,upside
+997,lagasca Property,2026-04-01,,price,upside
+998,lagasca Property,2026-07-01,,price,upside
+999,lagasca Property,2026-10-01,,price,upside
+1000,lagasca Property,2027-01-01,,price,upside
+1001,lagasca Property,2027-04-01,,price,upside
+1002,lagasca Property,2027-07-01,,price,upside
+1003,lagasca Property,2027-10-01,,price,upside
+1004,lagasca Property,2028-01-01,,price,upside
+1005,lagasca Property,2028-04-01,,price,upside
+1006,lagasca Property,2028-07-01,,price,upside
+1007,lagasca Property,2028-10-01,,price,upside
+1008,Patricia Manor Place,2023-10-01,882.841639085221,r,depression
+1009,Patricia Manor Place,2024-01-01,883.2720559204683,r,depression
+1010,Patricia Manor Place,2024-04-01,876.4630756478097,r,depression
+1011,Patricia Manor Place,2024-07-01,862.0174941050865,r,depression
+1012,Patricia Manor Place,2024-10-01,849.0995865535364,r,depression
+1013,Patricia Manor Place,2025-01-01,843.8200233877151,r,depression
+1014,Patricia Manor Place,2025-04-01,840.1521660561291,r,depression
+1015,Patricia Manor Place,2025-07-01,832.2309357845287,r,depression
+1016,Patricia Manor Place,2025-10-01,825.0256223972422,r,depression
+1017,Patricia Manor Place,2026-01-01,825.4759336129638,r,depression
+1018,Patricia Manor Place,2026-04-01,827.1303949934772,r,depression
+1019,Patricia Manor Place,2026-07-01,823.5557266501378,r,depression
+1020,Patricia Manor Place,2026-10-01,820.5908133944201,r,depression
+1021,Patricia Manor Place,2027-01-01,825.1871109127777,r,depression
+1022,Patricia Manor Place,2027-04-01,830.8434846855373,r,depression
+1023,Patricia Manor Place,2027-07-01,831.9014334795089,r,depression
+1024,Patricia Manor Place,2027-10-01,832.60085463518,r,depression
+1025,Patricia Manor Place,2028-01-01,840.3803560348964,r,depression
+1026,Patricia Manor Place,2028-04-01,848.2862226211347,r,depression
+1027,Patricia Manor Place,2028-07-01,850.7223992947607,r,depression
+1028,Patricia Manor Place,2028-10-01,852.2195039013393,r,depression
+1029,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,910.265499831922,r,depression
+1030,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,910.2580543821099,r,depression
+1031,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,921.1466994521782,r,depression
+1032,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,910.061027345015,r,depression
+1033,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,898.212974641957,r,depression
+1034,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,896.9338435567043,r,depression
+1035,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,899.751573570364,r,depression
+1036,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,892.2258677992794,r,depression
+1037,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,884.4118711998202,r,depression
+1038,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,887.1479271966576,r,depression
+1039,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,893.8036284379194,r,depression
+1040,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,890.1542964075799,r,depression
+1041,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,886.0498426619558,r,depression
+1042,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,892.8935365683942,r,depression
+1043,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,903.0353158616348,r,depression
+1044,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,902.9135724605173,r,depression
+1045,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,901.1158081225055,r,depression
+1046,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,909.8605296619695,r,depression
+1047,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,921.6091762889358,r,depression
+1048,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,922.0153153427144,r,depression
+1049,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,920.9115294646891,r,depression
+1050,Sutton Place,2023-10-01,842.8843412202657,r,depression
+1051,Sutton Place,2024-01-01,843.2952774454799,r,depression
+1052,Sutton Place,2024-04-01,836.7944707351751,r,depression
+1053,Sutton Place,2024-07-01,823.0026943359577,r,depression
+1054,Sutton Place,2024-10-01,810.6694496015853,r,depression
+1055,Sutton Place,2025-01-01,805.628838778601,r,depression
+1056,Sutton Place,2025-04-01,802.1269881932263,r,depression
+1057,Sutton Place,2025-07-01,794.5642717744016,r,depression
+1058,Sutton Place,2025-10-01,787.6850699347358,r,depression
+1059,Sutton Place,2026-01-01,788.1150001233492,r,depression
+1060,Sutton Place,2026-04-01,789.694580796768,r,depression
+1061,Sutton Place,2026-07-01,786.2817014781413,r,depression
+1062,Sutton Place,2026-10-01,783.4509798111044,r,depression
+1063,Sutton Place,2027-01-01,787.8392495010428,r,depression
+1064,Sutton Place,2027-04-01,793.2396165318595,r,depression
+1065,Sutton Place,2027-07-01,794.2496827008902,r,depression
+1066,Sutton Place,2027-10-01,794.9174481459411,r,depression
+1067,Sutton Place,2028-01-01,802.3448503232065,r,depression
+1068,Sutton Place,2028-04-01,809.8928984150723,r,depression
+1069,Sutton Place,2028-07-01,812.2188140490167,r,depression
+1070,Sutton Place,2028-10-01,813.6481598956414,r,depression
+1071,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,5015.261253065663,r,depression
+1072,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,5015.150633397564,r,depression
+1073,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,4914.241851294899,r,depression
+1074,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,4872.685712369534,r,depression
+1075,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,4876.932928072964,r,depression
+1076,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,4759.506420698165,r,depression
+1077,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,4671.292390458683,r,depression
+1078,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,4699.865573038345,r,depression
+1079,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,4447.725943692518,r,depression
+1080,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,4455.422818209118,r,depression
+1081,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,4568.363415274984,r,depression
+1082,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,4600.4787761330845,r,depression
+1083,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,4533.331580536048,r,depression
+1084,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,4606.915213197494,r,depression
+1085,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,4667.516456755289,r,depression
+1086,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,4678.3540930551235,r,depression
+1087,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,4682.316657982552,r,depression
+1088,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,4734.753065518613,r,depression
+1089,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,4794.044653680585,r,depression
+1090,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,4794.256831949306,r,depression
+1091,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,4783.538383821078,r,depression
+1092,el retiro Farm,2023-10-01,,r,depression
+1093,el retiro Farm,2024-01-01,,r,depression
+1094,el retiro Farm,2024-04-01,,r,depression
+1095,el retiro Farm,2024-07-01,,r,depression
+1096,el retiro Farm,2024-10-01,,r,depression
+1097,el retiro Farm,2025-01-01,,r,depression
+1098,el retiro Farm,2025-04-01,,r,depression
+1099,el retiro Farm,2025-07-01,,r,depression
+1100,el retiro Farm,2025-10-01,,r,depression
+1101,el retiro Farm,2026-01-01,,r,depression
+1102,el retiro Farm,2026-04-01,,r,depression
+1103,el retiro Farm,2026-07-01,,r,depression
+1104,el retiro Farm,2026-10-01,,r,depression
+1105,el retiro Farm,2027-01-01,,r,depression
+1106,el retiro Farm,2027-04-01,,r,depression
+1107,el retiro Farm,2027-07-01,,r,depression
+1108,el retiro Farm,2027-10-01,,r,depression
+1109,el retiro Farm,2028-01-01,,r,depression
+1110,el retiro Farm,2028-04-01,,r,depression
+1111,el retiro Farm,2028-07-01,,r,depression
+1112,el retiro Farm,2028-10-01,,r,depression
+1113,la moraleja Property,2023-10-01,,r,depression
+1114,la moraleja Property,2024-01-01,,r,depression
+1115,la moraleja Property,2024-04-01,,r,depression
+1116,la moraleja Property,2024-07-01,,r,depression
+1117,la moraleja Property,2024-10-01,,r,depression
+1118,la moraleja Property,2025-01-01,,r,depression
+1119,la moraleja Property,2025-04-01,,r,depression
+1120,la moraleja Property,2025-07-01,,r,depression
+1121,la moraleja Property,2025-10-01,,r,depression
+1122,la moraleja Property,2026-01-01,,r,depression
+1123,la moraleja Property,2026-04-01,,r,depression
+1124,la moraleja Property,2026-07-01,,r,depression
+1125,la moraleja Property,2026-10-01,,r,depression
+1126,la moraleja Property,2027-01-01,,r,depression
+1127,la moraleja Property,2027-04-01,,r,depression
+1128,la moraleja Property,2027-07-01,,r,depression
+1129,la moraleja Property,2027-10-01,,r,depression
+1130,la moraleja Property,2028-01-01,,r,depression
+1131,la moraleja Property,2028-04-01,,r,depression
+1132,la moraleja Property,2028-07-01,,r,depression
+1133,la moraleja Property,2028-10-01,,r,depression
+1134,la volcana Apartments,2023-10-01,,r,depression
+1135,la volcana Apartments,2024-01-01,,r,depression
+1136,la volcana Apartments,2024-04-01,,r,depression
+1137,la volcana Apartments,2024-07-01,,r,depression
+1138,la volcana Apartments,2024-10-01,,r,depression
+1139,la volcana Apartments,2025-01-01,,r,depression
+1140,la volcana Apartments,2025-04-01,,r,depression
+1141,la volcana Apartments,2025-07-01,,r,depression
+1142,la volcana Apartments,2025-10-01,,r,depression
+1143,la volcana Apartments,2026-01-01,,r,depression
+1144,la volcana Apartments,2026-04-01,,r,depression
+1145,la volcana Apartments,2026-07-01,,r,depression
+1146,la volcana Apartments,2026-10-01,,r,depression
+1147,la volcana Apartments,2027-01-01,,r,depression
+1148,la volcana Apartments,2027-04-01,,r,depression
+1149,la volcana Apartments,2027-07-01,,r,depression
+1150,la volcana Apartments,2027-10-01,,r,depression
+1151,la volcana Apartments,2028-01-01,,r,depression
+1152,la volcana Apartments,2028-04-01,,r,depression
+1153,la volcana Apartments,2028-07-01,,r,depression
+1154,la volcana Apartments,2028-10-01,,r,depression
+1155,lagasca Property,2023-10-01,,r,depression
+1156,lagasca Property,2024-01-01,,r,depression
+1157,lagasca Property,2024-04-01,,r,depression
+1158,lagasca Property,2024-07-01,,r,depression
+1159,lagasca Property,2024-10-01,,r,depression
+1160,lagasca Property,2025-01-01,,r,depression
+1161,lagasca Property,2025-04-01,,r,depression
+1162,lagasca Property,2025-07-01,,r,depression
+1163,lagasca Property,2025-10-01,,r,depression
+1164,lagasca Property,2026-01-01,,r,depression
+1165,lagasca Property,2026-04-01,,r,depression
+1166,lagasca Property,2026-07-01,,r,depression
+1167,lagasca Property,2026-10-01,,r,depression
+1168,lagasca Property,2027-01-01,,r,depression
+1169,lagasca Property,2027-04-01,,r,depression
+1170,lagasca Property,2027-07-01,,r,depression
+1171,lagasca Property,2027-10-01,,r,depression
+1172,lagasca Property,2028-01-01,,r,depression
+1173,lagasca Property,2028-04-01,,r,depression
+1174,lagasca Property,2028-07-01,,r,depression
+1175,lagasca Property,2028-10-01,,r,depression
+1176,Patricia Manor Place,2023-10-01,882.841639085221,r,downside
+1177,Patricia Manor Place,2024-01-01,883.2720559204683,r,downside
+1178,Patricia Manor Place,2024-04-01,880.6861754733629,r,downside
+1179,Patricia Manor Place,2024-07-01,869.7509449075063,r,downside
+1180,Patricia Manor Place,2024-10-01,859.5956791750726,r,downside
+1181,Patricia Manor Place,2025-01-01,857.2533947748857,r,downside
+1182,Patricia Manor Place,2025-04-01,856.7750295705986,r,downside
+1183,Patricia Manor Place,2025-07-01,852.7065535919495,r,downside
+1184,Patricia Manor Place,2025-10-01,849.5006075486376,r,downside
+1185,Patricia Manor Place,2026-01-01,853.9091724140017,r,downside
+1186,Patricia Manor Place,2026-04-01,859.2898142684112,r,downside
+1187,Patricia Manor Place,2026-07-01,859.2717352966449,r,downside
+1188,Patricia Manor Place,2026-10-01,859.3475157206267,r,downside
+1189,Patricia Manor Place,2027-01-01,866.6567272035415,r,downside
+1190,Patricia Manor Place,2027-04-01,874.3102958605848,r,downside
+1191,Patricia Manor Place,2027-07-01,876.4464204039685,r,downside
+1192,Patricia Manor Place,2027-10-01,877.733923374915,r,downside
+1193,Patricia Manor Place,2028-01-01,886.1468677287235,r,downside
+1194,Patricia Manor Place,2028-04-01,894.5323323363212,r,downside
+1195,Patricia Manor Place,2028-07-01,897.0294183200899,r,downside
+1196,Patricia Manor Place,2028-10-01,898.5687897267921,r,downside
+1197,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,910.265499831922,r,downside
+1198,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,910.2580543821099,r,downside
+1199,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,924.5948380348898,r,downside
+1200,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,915.0876058798746,r,downside
+1201,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,904.6104370955144,r,downside
+1202,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,904.8426533875773,r,downside
+1203,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,909.7921184178355,r,downside
+1204,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,905.1984802723455,r,downside
+1205,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,900.6447108430824,r,downside
+1206,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,906.8725278678336,r,downside
+1207,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,916.703240979695,r,downside
+1208,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,916.2590169743635,r,downside
+1209,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,914.7647559791563,r,downside
+1210,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,923.9452272620231,r,downside
+1211,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,936.4748413937632,r,downside
+1212,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,937.348272980307,r,downside
+1213,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,936.4369377797699,r,downside
+1214,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,945.9396337086163,r,downside
+1215,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,958.4224421868399,r,downside
+1216,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,959.2991672717268,r,downside
+1217,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,958.5296013339707,r,downside
+1218,Sutton Place,2023-10-01,842.8843412202657,r,downside
+1219,Sutton Place,2024-01-01,843.2952774454799,r,downside
+1220,Sutton Place,2024-04-01,840.8264336113906,r,downside
+1221,Sutton Place,2024-07-01,830.3861301599761,r,downside
+1222,Sutton Place,2024-10-01,820.6904904349759,r,downside
+1223,Sutton Place,2025-01-01,818.4542175223754,r,downside
+1224,Sutton Place,2025-04-01,817.9975030650736,r,downside
+1225,Sutton Place,2025-07-01,814.1131657805438,r,downside
+1226,Sutton Place,2025-10-01,811.0523204385585,r,downside
+1227,Sutton Place,2026-01-01,815.261354230983,r,downside
+1228,Sutton Place,2026-04-01,820.3984689342445,r,downside
+1229,Sutton Place,2026-07-01,820.3812082143912,r,downside
+1230,Sutton Place,2026-10-01,820.4535588262307,r,downside
+1231,Sutton Place,2027-01-01,827.4319563472176,r,downside
+1232,Sutton Place,2027-04-01,834.739125481379,r,downside
+1233,Sutton Place,2027-07-01,836.7785693055059,r,downside
+1234,Sutton Place,2027-10-01,838.0078000592907,r,downside
+1235,Sutton Place,2028-01-01,846.039975644858,r,downside
+1236,Sutton Place,2028-04-01,854.0459152139575,r,downside
+1237,Sutton Place,2028-07-01,856.4299834105823,r,downside
+1238,Sutton Place,2028-10-01,857.8996830674494,r,downside
+1239,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,5015.261253065663,r,downside
+1240,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,5015.150633397564,r,downside
+1241,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,4936.08909522859,r,downside
+1242,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,4917.781658549943,r,downside
+1243,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,4946.080624076047,r,downside
+1244,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,4850.205459748441,r,downside
+1245,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,4785.145806214072,r,downside
+1246,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,4838.968795607866,r,downside
+1247,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,4607.0115020243,r,downside
+1248,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,4641.018626942241,r,downside
+1249,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,4779.073361113116,r,downside
+1250,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,4832.391637798375,r,downside
+1251,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,4776.33779234623,r,downside
+1252,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,4864.208927993289,r,downside
+1253,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,4935.576630728815,r,downside
+1254,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,4952.292657453181,r,downside
+1255,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,4956.336968808923,r,downside
+1256,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,5010.735410821393,r,downside
+1257,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,5071.956572514378,r,downside
+1258,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,5072.551878383716,r,downside
+1259,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,5062.207138225105,r,downside
+1260,el retiro Farm,2023-10-01,,r,downside
+1261,el retiro Farm,2024-01-01,,r,downside
+1262,el retiro Farm,2024-04-01,,r,downside
+1263,el retiro Farm,2024-07-01,,r,downside
+1264,el retiro Farm,2024-10-01,,r,downside
+1265,el retiro Farm,2025-01-01,,r,downside
+1266,el retiro Farm,2025-04-01,,r,downside
+1267,el retiro Farm,2025-07-01,,r,downside
+1268,el retiro Farm,2025-10-01,,r,downside
+1269,el retiro Farm,2026-01-01,,r,downside
+1270,el retiro Farm,2026-04-01,,r,downside
+1271,el retiro Farm,2026-07-01,,r,downside
+1272,el retiro Farm,2026-10-01,,r,downside
+1273,el retiro Farm,2027-01-01,,r,downside
+1274,el retiro Farm,2027-04-01,,r,downside
+1275,el retiro Farm,2027-07-01,,r,downside
+1276,el retiro Farm,2027-10-01,,r,downside
+1277,el retiro Farm,2028-01-01,,r,downside
+1278,el retiro Farm,2028-04-01,,r,downside
+1279,el retiro Farm,2028-07-01,,r,downside
+1280,el retiro Farm,2028-10-01,,r,downside
+1281,la moraleja Property,2023-10-01,,r,downside
+1282,la moraleja Property,2024-01-01,,r,downside
+1283,la moraleja Property,2024-04-01,,r,downside
+1284,la moraleja Property,2024-07-01,,r,downside
+1285,la moraleja Property,2024-10-01,,r,downside
+1286,la moraleja Property,2025-01-01,,r,downside
+1287,la moraleja Property,2025-04-01,,r,downside
+1288,la moraleja Property,2025-07-01,,r,downside
+1289,la moraleja Property,2025-10-01,,r,downside
+1290,la moraleja Property,2026-01-01,,r,downside
+1291,la moraleja Property,2026-04-01,,r,downside
+1292,la moraleja Property,2026-07-01,,r,downside
+1293,la moraleja Property,2026-10-01,,r,downside
+1294,la moraleja Property,2027-01-01,,r,downside
+1295,la moraleja Property,2027-04-01,,r,downside
+1296,la moraleja Property,2027-07-01,,r,downside
+1297,la moraleja Property,2027-10-01,,r,downside
+1298,la moraleja Property,2028-01-01,,r,downside
+1299,la moraleja Property,2028-04-01,,r,downside
+1300,la moraleja Property,2028-07-01,,r,downside
+1301,la moraleja Property,2028-10-01,,r,downside
+1302,la volcana Apartments,2023-10-01,,r,downside
+1303,la volcana Apartments,2024-01-01,,r,downside
+1304,la volcana Apartments,2024-04-01,,r,downside
+1305,la volcana Apartments,2024-07-01,,r,downside
+1306,la volcana Apartments,2024-10-01,,r,downside
+1307,la volcana Apartments,2025-01-01,,r,downside
+1308,la volcana Apartments,2025-04-01,,r,downside
+1309,la volcana Apartments,2025-07-01,,r,downside
+1310,la volcana Apartments,2025-10-01,,r,downside
+1311,la volcana Apartments,2026-01-01,,r,downside
+1312,la volcana Apartments,2026-04-01,,r,downside
+1313,la volcana Apartments,2026-07-01,,r,downside
+1314,la volcana Apartments,2026-10-01,,r,downside
+1315,la volcana Apartments,2027-01-01,,r,downside
+1316,la volcana Apartments,2027-04-01,,r,downside
+1317,la volcana Apartments,2027-07-01,,r,downside
+1318,la volcana Apartments,2027-10-01,,r,downside
+1319,la volcana Apartments,2028-01-01,,r,downside
+1320,la volcana Apartments,2028-04-01,,r,downside
+1321,la volcana Apartments,2028-07-01,,r,downside
+1322,la volcana Apartments,2028-10-01,,r,downside
+1323,lagasca Property,2023-10-01,,r,downside
+1324,lagasca Property,2024-01-01,,r,downside
+1325,lagasca Property,2024-04-01,,r,downside
+1326,lagasca Property,2024-07-01,,r,downside
+1327,lagasca Property,2024-10-01,,r,downside
+1328,lagasca Property,2025-01-01,,r,downside
+1329,lagasca Property,2025-04-01,,r,downside
+1330,lagasca Property,2025-07-01,,r,downside
+1331,lagasca Property,2025-10-01,,r,downside
+1332,lagasca Property,2026-01-01,,r,downside
+1333,lagasca Property,2026-04-01,,r,downside
+1334,lagasca Property,2026-07-01,,r,downside
+1335,lagasca Property,2026-10-01,,r,downside
+1336,lagasca Property,2027-01-01,,r,downside
+1337,lagasca Property,2027-04-01,,r,downside
+1338,lagasca Property,2027-07-01,,r,downside
+1339,lagasca Property,2027-10-01,,r,downside
+1340,lagasca Property,2028-01-01,,r,downside
+1341,lagasca Property,2028-04-01,,r,downside
+1342,lagasca Property,2028-07-01,,r,downside
+1343,lagasca Property,2028-10-01,,r,downside
+1344,Patricia Manor Place,2023-10-01,882.841639085221,r,rateshock
+1345,Patricia Manor Place,2024-01-01,883.2720559204683,r,rateshock
+1346,Patricia Manor Place,2024-04-01,880.6861754733629,r,rateshock
+1347,Patricia Manor Place,2024-07-01,869.7509449075063,r,rateshock
+1348,Patricia Manor Place,2024-10-01,859.5956791750726,r,rateshock
+1349,Patricia Manor Place,2025-01-01,857.2533947748857,r,rateshock
+1350,Patricia Manor Place,2025-04-01,856.7750295705986,r,rateshock
+1351,Patricia Manor Place,2025-07-01,852.7065535919495,r,rateshock
+1352,Patricia Manor Place,2025-10-01,849.5006075486376,r,rateshock
+1353,Patricia Manor Place,2026-01-01,853.9091724140017,r,rateshock
+1354,Patricia Manor Place,2026-04-01,859.2898142684112,r,rateshock
+1355,Patricia Manor Place,2026-07-01,859.2717352966449,r,rateshock
+1356,Patricia Manor Place,2026-10-01,859.3475157206267,r,rateshock
+1357,Patricia Manor Place,2027-01-01,866.6567272035415,r,rateshock
+1358,Patricia Manor Place,2027-04-01,874.3102958605848,r,rateshock
+1359,Patricia Manor Place,2027-07-01,876.4464204039685,r,rateshock
+1360,Patricia Manor Place,2027-10-01,877.733923374915,r,rateshock
+1361,Patricia Manor Place,2028-01-01,886.1468677287235,r,rateshock
+1362,Patricia Manor Place,2028-04-01,894.5323323363212,r,rateshock
+1363,Patricia Manor Place,2028-07-01,897.0294183200899,r,rateshock
+1364,Patricia Manor Place,2028-10-01,898.5687897267921,r,rateshock
+1365,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,910.265499831922,r,rateshock
+1366,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,910.2580543821099,r,rateshock
+1367,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,924.5948380348898,r,rateshock
+1368,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,915.0876058798746,r,rateshock
+1369,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,904.6104370955144,r,rateshock
+1370,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,904.8426533875773,r,rateshock
+1371,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,909.7921184178355,r,rateshock
+1372,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,905.1984802723455,r,rateshock
+1373,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,900.6447108430824,r,rateshock
+1374,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,906.8725278678336,r,rateshock
+1375,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,916.703240979695,r,rateshock
+1376,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,916.2590169743635,r,rateshock
+1377,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,914.7647559791563,r,rateshock
+1378,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,923.9452272620231,r,rateshock
+1379,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,936.4748413937632,r,rateshock
+1380,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,937.348272980307,r,rateshock
+1381,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,936.4369377797699,r,rateshock
+1382,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,945.9396337086163,r,rateshock
+1383,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,958.4224421868399,r,rateshock
+1384,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,959.2991672717268,r,rateshock
+1385,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,958.5296013339707,r,rateshock
+1386,Sutton Place,2023-10-01,842.8843412202657,r,rateshock
+1387,Sutton Place,2024-01-01,843.2952774454799,r,rateshock
+1388,Sutton Place,2024-04-01,840.8264336113906,r,rateshock
+1389,Sutton Place,2024-07-01,830.3861301599761,r,rateshock
+1390,Sutton Place,2024-10-01,820.6904904349759,r,rateshock
+1391,Sutton Place,2025-01-01,818.4542175223754,r,rateshock
+1392,Sutton Place,2025-04-01,817.9975030650736,r,rateshock
+1393,Sutton Place,2025-07-01,814.1131657805438,r,rateshock
+1394,Sutton Place,2025-10-01,811.0523204385585,r,rateshock
+1395,Sutton Place,2026-01-01,815.261354230983,r,rateshock
+1396,Sutton Place,2026-04-01,820.3984689342445,r,rateshock
+1397,Sutton Place,2026-07-01,820.3812082143912,r,rateshock
+1398,Sutton Place,2026-10-01,820.4535588262307,r,rateshock
+1399,Sutton Place,2027-01-01,827.4319563472176,r,rateshock
+1400,Sutton Place,2027-04-01,834.739125481379,r,rateshock
+1401,Sutton Place,2027-07-01,836.7785693055059,r,rateshock
+1402,Sutton Place,2027-10-01,838.0078000592907,r,rateshock
+1403,Sutton Place,2028-01-01,846.039975644858,r,rateshock
+1404,Sutton Place,2028-04-01,854.0459152139575,r,rateshock
+1405,Sutton Place,2028-07-01,856.4299834105823,r,rateshock
+1406,Sutton Place,2028-10-01,857.8996830674494,r,rateshock
+1407,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,5015.261253065663,r,rateshock
+1408,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,5015.150633397564,r,rateshock
+1409,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,4936.08909522859,r,rateshock
+1410,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,4917.781658549943,r,rateshock
+1411,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,4946.080624076047,r,rateshock
+1412,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,4850.205459748441,r,rateshock
+1413,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,4785.145806214072,r,rateshock
+1414,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,4838.968795607866,r,rateshock
+1415,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,4607.0115020243,r,rateshock
+1416,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,4641.018626942241,r,rateshock
+1417,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,4779.073361113116,r,rateshock
+1418,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,4832.391637798375,r,rateshock
+1419,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,4776.33779234623,r,rateshock
+1420,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,4864.208927993289,r,rateshock
+1421,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,4935.576630728815,r,rateshock
+1422,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,4952.292657453181,r,rateshock
+1423,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,4956.336968808923,r,rateshock
+1424,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,5010.735410821393,r,rateshock
+1425,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,5071.956572514378,r,rateshock
+1426,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,5072.551878383716,r,rateshock
+1427,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,5062.207138225105,r,rateshock
+1428,el retiro Farm,2023-10-01,,r,rateshock
+1429,el retiro Farm,2024-01-01,,r,rateshock
+1430,el retiro Farm,2024-04-01,,r,rateshock
+1431,el retiro Farm,2024-07-01,,r,rateshock
+1432,el retiro Farm,2024-10-01,,r,rateshock
+1433,el retiro Farm,2025-01-01,,r,rateshock
+1434,el retiro Farm,2025-04-01,,r,rateshock
+1435,el retiro Farm,2025-07-01,,r,rateshock
+1436,el retiro Farm,2025-10-01,,r,rateshock
+1437,el retiro Farm,2026-01-01,,r,rateshock
+1438,el retiro Farm,2026-04-01,,r,rateshock
+1439,el retiro Farm,2026-07-01,,r,rateshock
+1440,el retiro Farm,2026-10-01,,r,rateshock
+1441,el retiro Farm,2027-01-01,,r,rateshock
+1442,el retiro Farm,2027-04-01,,r,rateshock
+1443,el retiro Farm,2027-07-01,,r,rateshock
+1444,el retiro Farm,2027-10-01,,r,rateshock
+1445,el retiro Farm,2028-01-01,,r,rateshock
+1446,el retiro Farm,2028-04-01,,r,rateshock
+1447,el retiro Farm,2028-07-01,,r,rateshock
+1448,el retiro Farm,2028-10-01,,r,rateshock
+1449,la moraleja Property,2023-10-01,,r,rateshock
+1450,la moraleja Property,2024-01-01,,r,rateshock
+1451,la moraleja Property,2024-04-01,,r,rateshock
+1452,la moraleja Property,2024-07-01,,r,rateshock
+1453,la moraleja Property,2024-10-01,,r,rateshock
+1454,la moraleja Property,2025-01-01,,r,rateshock
+1455,la moraleja Property,2025-04-01,,r,rateshock
+1456,la moraleja Property,2025-07-01,,r,rateshock
+1457,la moraleja Property,2025-10-01,,r,rateshock
+1458,la moraleja Property,2026-01-01,,r,rateshock
+1459,la moraleja Property,2026-04-01,,r,rateshock
+1460,la moraleja Property,2026-07-01,,r,rateshock
+1461,la moraleja Property,2026-10-01,,r,rateshock
+1462,la moraleja Property,2027-01-01,,r,rateshock
+1463,la moraleja Property,2027-04-01,,r,rateshock
+1464,la moraleja Property,2027-07-01,,r,rateshock
+1465,la moraleja Property,2027-10-01,,r,rateshock
+1466,la moraleja Property,2028-01-01,,r,rateshock
+1467,la moraleja Property,2028-04-01,,r,rateshock
+1468,la moraleja Property,2028-07-01,,r,rateshock
+1469,la moraleja Property,2028-10-01,,r,rateshock
+1470,la volcana Apartments,2023-10-01,,r,rateshock
+1471,la volcana Apartments,2024-01-01,,r,rateshock
+1472,la volcana Apartments,2024-04-01,,r,rateshock
+1473,la volcana Apartments,2024-07-01,,r,rateshock
+1474,la volcana Apartments,2024-10-01,,r,rateshock
+1475,la volcana Apartments,2025-01-01,,r,rateshock
+1476,la volcana Apartments,2025-04-01,,r,rateshock
+1477,la volcana Apartments,2025-07-01,,r,rateshock
+1478,la volcana Apartments,2025-10-01,,r,rateshock
+1479,la volcana Apartments,2026-01-01,,r,rateshock
+1480,la volcana Apartments,2026-04-01,,r,rateshock
+1481,la volcana Apartments,2026-07-01,,r,rateshock
+1482,la volcana Apartments,2026-10-01,,r,rateshock
+1483,la volcana Apartments,2027-01-01,,r,rateshock
+1484,la volcana Apartments,2027-04-01,,r,rateshock
+1485,la volcana Apartments,2027-07-01,,r,rateshock
+1486,la volcana Apartments,2027-10-01,,r,rateshock
+1487,la volcana Apartments,2028-01-01,,r,rateshock
+1488,la volcana Apartments,2028-04-01,,r,rateshock
+1489,la volcana Apartments,2028-07-01,,r,rateshock
+1490,la volcana Apartments,2028-10-01,,r,rateshock
+1491,lagasca Property,2023-10-01,,r,rateshock
+1492,lagasca Property,2024-01-01,,r,rateshock
+1493,lagasca Property,2024-04-01,,r,rateshock
+1494,lagasca Property,2024-07-01,,r,rateshock
+1495,lagasca Property,2024-10-01,,r,rateshock
+1496,lagasca Property,2025-01-01,,r,rateshock
+1497,lagasca Property,2025-04-01,,r,rateshock
+1498,lagasca Property,2025-07-01,,r,rateshock
+1499,lagasca Property,2025-10-01,,r,rateshock
+1500,lagasca Property,2026-01-01,,r,rateshock
+1501,lagasca Property,2026-04-01,,r,rateshock
+1502,lagasca Property,2026-07-01,,r,rateshock
+1503,lagasca Property,2026-10-01,,r,rateshock
+1504,lagasca Property,2027-01-01,,r,rateshock
+1505,lagasca Property,2027-04-01,,r,rateshock
+1506,lagasca Property,2027-07-01,,r,rateshock
+1507,lagasca Property,2027-10-01,,r,rateshock
+1508,lagasca Property,2028-01-01,,r,rateshock
+1509,lagasca Property,2028-04-01,,r,rateshock
+1510,lagasca Property,2028-07-01,,r,rateshock
+1511,lagasca Property,2028-10-01,,r,rateshock
+1512,Patricia Manor Place,2023-10-01,882.841639085221,r,sdownside
+1513,Patricia Manor Place,2024-01-01,883.2720559204683,r,sdownside
+1514,Patricia Manor Place,2024-04-01,874.6890313340231,r,sdownside
+1515,Patricia Manor Place,2024-07-01,855.1023102071028,r,sdownside
+1516,Patricia Manor Place,2024-10-01,835.8041850403642,r,sdownside
+1517,Patricia Manor Place,2025-01-01,823.9958702857667,r,sdownside
+1518,Patricia Manor Place,2025-04-01,814.7247283384958,r,sdownside
+1519,Patricia Manor Place,2025-07-01,803.5202299974171,r,sdownside
+1520,Patricia Manor Place,2025-10-01,794.9274582336275,r,sdownside
+1521,Patricia Manor Place,2026-01-01,795.1828681081784,r,sdownside
+1522,Patricia Manor Place,2026-04-01,797.7052609158889,r,sdownside
+1523,Patricia Manor Place,2026-07-01,797.0051466022334,r,sdownside
+1524,Patricia Manor Place,2026-10-01,797.1647285026451,r,sdownside
+1525,Patricia Manor Place,2027-01-01,804.8226575974256,r,sdownside
+1526,Patricia Manor Place,2027-04-01,813.1742447499668,r,sdownside
+1527,Patricia Manor Place,2027-07-01,816.5060975983382,r,sdownside
+1528,Patricia Manor Place,2027-10-01,818.9500558792776,r,sdownside
+1529,Patricia Manor Place,2028-01-01,827.9190744045891,r,sdownside
+1530,Patricia Manor Place,2028-04-01,836.748127263518,r,sdownside
+1531,Patricia Manor Place,2028-07-01,839.9365100598058,r,sdownside
+1532,Patricia Manor Place,2028-10-01,842.057353204362,r,sdownside
+1533,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,910.265499831922,r,sdownside
+1534,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,910.2580543821099,r,sdownside
+1535,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,917.5295079637234,r,sdownside
+1536,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,900.36694892537,r,sdownside
+1537,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,881.6281860982389,r,sdownside
+1538,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,873.2601265558984,r,sdownside
+1539,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,869.8588575970209,r,sdownside
+1540,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,858.82524873457,r,sdownside
+1541,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,849.3891685676755,r,sdownside
+1542,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,851.5072568530741,r,sdownside
+1543,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,858.6700380293113,r,sdownside
+1544,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,857.0841711155595,r,sdownside
+1545,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,855.6886564480261,r,sdownside
+1546,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,864.7956941655132,r,sdownside
+1547,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,876.9206366496076,r,sdownside
+1548,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,878.685175800199,r,sdownside
+1549,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,878.1313921861326,r,sdownside
+1550,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,887.559128679238,r,sdownside
+1551,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,900.0173731942817,r,sdownside
+1552,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,901.0502073089415,r,sdownside
+1553,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,900.5280572056654,r,sdownside
+1554,Sutton Place,2023-10-01,842.8843412202657,r,sdownside
+1555,Sutton Place,2024-01-01,843.2952774454799,r,sdownside
+1556,Sutton Place,2024-04-01,835.1007194365039,r,sdownside
+1557,Sutton Place,2024-07-01,816.4004907626097,r,sdownside
+1558,Sutton Place,2024-10-01,797.9757962332405,r,sdownside
+1559,Sutton Place,2025-01-01,786.7019242700156,r,sdownside
+1560,Sutton Place,2025-04-01,777.8503930025482,r,sdownside
+1561,Sutton Place,2025-07-01,767.1530088004286,r,sdownside
+1562,Sutton Place,2025-10-01,758.9491447700882,r,sdownside
+1563,Sutton Place,2026-01-01,759.192994826906,r,sdownside
+1564,Sutton Place,2026-04-01,761.6012244639094,r,sdownside
+1565,Sutton Place,2026-07-01,760.9327972331143,r,sdownside
+1566,Sutton Place,2026-10-01,761.08515647745,r,sdownside
+1567,Sutton Place,2027-01-01,768.3964886965034,r,sdownside
+1568,Sutton Place,2027-04-01,776.3700840997598,r,sdownside
+1569,Sutton Place,2027-07-01,779.5511377211685,r,sdownside
+1570,Sutton Place,2027-10-01,781.8844827678904,r,sdownside
+1571,Sutton Place,2028-01-01,790.4475646802173,r,sdownside
+1572,Sutton Place,2028-04-01,798.8770157540341,r,sdownside
+1573,Sutton Place,2028-07-01,801.9210927592734,r,sdownside
+1574,Sutton Place,2028-10-01,803.9459468186981,r,sdownside
+1575,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,5015.261253065663,r,sdownside
+1576,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,5015.150633397564,r,sdownside
+1577,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,4905.771746549377,r,sdownside
+1578,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,4834.028023958957,r,sdownside
+1579,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,4796.828703946235,r,sdownside
+1580,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,4635.892236443777,r,sdownside
+1581,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,4507.837255294832,r,sdownside
+1582,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,4515.762223611155,r,sdownside
+1583,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,4264.585072474864,r,sdownside
+1584,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,4281.807501499068,r,sdownside
+1585,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,4403.378666111247,r,sdownside
+1586,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,4462.53650578918,r,sdownside
+1587,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,4416.069663545954,r,sdownside
+1588,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,4503.619795965299,r,sdownside
+1589,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,4575.452172999411,r,sdownside
+1590,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,4595.670180144032,r,sdownside
+1591,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,4607.511877835887,r,sdownside
+1592,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,4668.17699225778,r,sdownside
+1593,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,4733.144850057477,r,sdownside
+1594,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,4738.592051050589,r,sdownside
+1595,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,4731.671660364361,r,sdownside
+1596,el retiro Farm,2023-10-01,,r,sdownside
+1597,el retiro Farm,2024-01-01,,r,sdownside
+1598,el retiro Farm,2024-04-01,,r,sdownside
+1599,el retiro Farm,2024-07-01,,r,sdownside
+1600,el retiro Farm,2024-10-01,,r,sdownside
+1601,el retiro Farm,2025-01-01,,r,sdownside
+1602,el retiro Farm,2025-04-01,,r,sdownside
+1603,el retiro Farm,2025-07-01,,r,sdownside
+1604,el retiro Farm,2025-10-01,,r,sdownside
+1605,el retiro Farm,2026-01-01,,r,sdownside
+1606,el retiro Farm,2026-04-01,,r,sdownside
+1607,el retiro Farm,2026-07-01,,r,sdownside
+1608,el retiro Farm,2026-10-01,,r,sdownside
+1609,el retiro Farm,2027-01-01,,r,sdownside
+1610,el retiro Farm,2027-04-01,,r,sdownside
+1611,el retiro Farm,2027-07-01,,r,sdownside
+1612,el retiro Farm,2027-10-01,,r,sdownside
+1613,el retiro Farm,2028-01-01,,r,sdownside
+1614,el retiro Farm,2028-04-01,,r,sdownside
+1615,el retiro Farm,2028-07-01,,r,sdownside
+1616,el retiro Farm,2028-10-01,,r,sdownside
+1617,la moraleja Property,2023-10-01,,r,sdownside
+1618,la moraleja Property,2024-01-01,,r,sdownside
+1619,la moraleja Property,2024-04-01,,r,sdownside
+1620,la moraleja Property,2024-07-01,,r,sdownside
+1621,la moraleja Property,2024-10-01,,r,sdownside
+1622,la moraleja Property,2025-01-01,,r,sdownside
+1623,la moraleja Property,2025-04-01,,r,sdownside
+1624,la moraleja Property,2025-07-01,,r,sdownside
+1625,la moraleja Property,2025-10-01,,r,sdownside
+1626,la moraleja Property,2026-01-01,,r,sdownside
+1627,la moraleja Property,2026-04-01,,r,sdownside
+1628,la moraleja Property,2026-07-01,,r,sdownside
+1629,la moraleja Property,2026-10-01,,r,sdownside
+1630,la moraleja Property,2027-01-01,,r,sdownside
+1631,la moraleja Property,2027-04-01,,r,sdownside
+1632,la moraleja Property,2027-07-01,,r,sdownside
+1633,la moraleja Property,2027-10-01,,r,sdownside
+1634,la moraleja Property,2028-01-01,,r,sdownside
+1635,la moraleja Property,2028-04-01,,r,sdownside
+1636,la moraleja Property,2028-07-01,,r,sdownside
+1637,la moraleja Property,2028-10-01,,r,sdownside
+1638,la volcana Apartments,2023-10-01,,r,sdownside
+1639,la volcana Apartments,2024-01-01,,r,sdownside
+1640,la volcana Apartments,2024-04-01,,r,sdownside
+1641,la volcana Apartments,2024-07-01,,r,sdownside
+1642,la volcana Apartments,2024-10-01,,r,sdownside
+1643,la volcana Apartments,2025-01-01,,r,sdownside
+1644,la volcana Apartments,2025-04-01,,r,sdownside
+1645,la volcana Apartments,2025-07-01,,r,sdownside
+1646,la volcana Apartments,2025-10-01,,r,sdownside
+1647,la volcana Apartments,2026-01-01,,r,sdownside
+1648,la volcana Apartments,2026-04-01,,r,sdownside
+1649,la volcana Apartments,2026-07-01,,r,sdownside
+1650,la volcana Apartments,2026-10-01,,r,sdownside
+1651,la volcana Apartments,2027-01-01,,r,sdownside
+1652,la volcana Apartments,2027-04-01,,r,sdownside
+1653,la volcana Apartments,2027-07-01,,r,sdownside
+1654,la volcana Apartments,2027-10-01,,r,sdownside
+1655,la volcana Apartments,2028-01-01,,r,sdownside
+1656,la volcana Apartments,2028-04-01,,r,sdownside
+1657,la volcana Apartments,2028-07-01,,r,sdownside
+1658,la volcana Apartments,2028-10-01,,r,sdownside
+1659,lagasca Property,2023-10-01,,r,sdownside
+1660,lagasca Property,2024-01-01,,r,sdownside
+1661,lagasca Property,2024-04-01,,r,sdownside
+1662,lagasca Property,2024-07-01,,r,sdownside
+1663,lagasca Property,2024-10-01,,r,sdownside
+1664,lagasca Property,2025-01-01,,r,sdownside
+1665,lagasca Property,2025-04-01,,r,sdownside
+1666,lagasca Property,2025-07-01,,r,sdownside
+1667,lagasca Property,2025-10-01,,r,sdownside
+1668,lagasca Property,2026-01-01,,r,sdownside
+1669,lagasca Property,2026-04-01,,r,sdownside
+1670,lagasca Property,2026-07-01,,r,sdownside
+1671,lagasca Property,2026-10-01,,r,sdownside
+1672,lagasca Property,2027-01-01,,r,sdownside
+1673,lagasca Property,2027-04-01,,r,sdownside
+1674,lagasca Property,2027-07-01,,r,sdownside
+1675,lagasca Property,2027-10-01,,r,sdownside
+1676,lagasca Property,2028-01-01,,r,sdownside
+1677,lagasca Property,2028-04-01,,r,sdownside
+1678,lagasca Property,2028-07-01,,r,sdownside
+1679,lagasca Property,2028-10-01,,r,sdownside
+1680,Patricia Manor Place,2023-10-01,882.841639085221,r,trend
+1681,Patricia Manor Place,2024-01-01,883.2720559204683,r,trend
+1682,Patricia Manor Place,2024-04-01,890.8606870596566,r,trend
+1683,Patricia Manor Place,2024-07-01,891.806799440374,r,trend
+1684,Patricia Manor Place,2024-10-01,891.9213296101427,r,trend
+1685,Patricia Manor Place,2025-01-01,899.2573807873113,r,trend
+1686,Patricia Manor Place,2025-04-01,907.1500532467046,r,trend
+1687,Patricia Manor Place,2025-07-01,909.4217581110889,r,trend
+1688,Patricia Manor Place,2025-10-01,910.9039822352673,r,trend
+1689,Patricia Manor Place,2026-01-01,919.7022643861842,r,trend
+1690,Patricia Manor Place,2026-04-01,928.4281078684435,r,trend
+1691,Patricia Manor Place,2026-07-01,931.5538744717455,r,trend
+1692,Patricia Manor Place,2026-10-01,934.2750345282737,r,trend
+1693,Patricia Manor Place,2027-01-01,944.2470845566066,r,trend
+1694,Patricia Manor Place,2027-04-01,954.115319587755,r,trend
+1695,Patricia Manor Place,2027-07-01,957.6322595075259,r,trend
+1696,Patricia Manor Place,2027-10-01,959.9548557535592,r,trend
+1697,Patricia Manor Place,2028-01-01,969.8527947746428,r,trend
+1698,Patricia Manor Place,2028-04-01,979.5228627615685,r,trend
+1699,Patricia Manor Place,2028-07-01,982.603148275061,r,trend
+1700,Patricia Manor Place,2028-10-01,984.5323128305836,r,trend
+1701,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,910.265499831922,r,trend
+1702,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,910.2580543821099,r,trend
+1703,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,935.8409522437379,r,trend
+1704,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,937.405107927802,r,trend
+1705,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,937.2814686738227,r,trend
+1706,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,946.8984365761743,r,trend
+1707,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,960.1201903537169,r,trend
+1708,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,961.891441976424,r,trend
+1709,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,961.3389929051287,r,trend
+1710,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,971.9946882026165,r,trend
+1711,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,985.7203604361563,r,trend
+1712,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,987.7942617418781,r,trend
+1713,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,988.2206157225878,r,trend
+1714,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,999.8062975229985,r,trend
+1715,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,1014.2526662741188,r,trend
+1716,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,1016.675808138696,r,trend
+1717,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,1016.4975560051967,r,trend
+1718,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,1027.8603409878972,r,trend
+1719,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,1042.3825300512292,r,trend
+1720,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,1043.743407034257,r,trend
+1721,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,1043.2286651991185,r,trend
+1722,Sutton Place,2023-10-01,842.8843412202657,r,trend
+1723,Sutton Place,2024-01-01,843.2952774454799,r,trend
+1724,Sutton Place,2024-04-01,850.5404481254061,r,trend
+1725,Sutton Place,2024-07-01,851.4437395827139,r,trend
+1726,Sutton Place,2024-10-01,851.5530861318814,r,trend
+1727,Sutton Place,2025-01-01,858.5571085860478,r,trend
+1728,Sutton Place,2025-04-01,866.0925597155349,r,trend
+1729,Sutton Place,2025-07-01,868.2614475129519,r,trend
+1730,Sutton Place,2025-10-01,869.6765863658762,r,trend
+1731,Sutton Place,2026-01-01,878.0766594099272,r,trend
+1732,Sutton Place,2026-04-01,886.4075723500512,r,trend
+1733,Sutton Place,2026-07-01,889.3918671630626,r,trend
+1734,Sutton Place,2026-10-01,891.989867869031,r,trend
+1735,Sutton Place,2027-01-01,901.5105842088904,r,trend
+1736,Sutton Place,2027-04-01,910.9321842048477,r,trend
+1737,Sutton Place,2027-07-01,914.2899478808552,r,trend
+1738,Sutton Place,2027-10-01,916.5074237226006,r,trend
+1739,Sutton Place,2028-01-01,925.9573833097686,r,trend
+1740,Sutton Place,2028-04-01,935.1897852761741,r,trend
+1741,Sutton Place,2028-07-01,938.1306574675907,r,trend
+1742,Sutton Place,2028-10-01,939.9725082860139,r,trend
+1743,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,5015.261253065663,r,trend
+1744,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,5015.150633397564,r,trend
+1745,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,5004.625521964962,r,trend
+1746,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,5057.545390490329,r,trend
+1747,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,5160.874133249344,r,trend
+1748,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,5129.816306796002,r,trend
+1749,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,5128.7018030976315,r,trend
+1750,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,5228.776783613846,r,trend
+1751,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,5021.2784585197005,r,trend
+1752,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,5085.8482287670295,r,trend
+1753,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,5246.8185866388685,r,trend
+1754,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,5320.776296068658,r,trend
+1755,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,5272.400142337277,r,trend
+1756,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,5379.948289447909,r,trend
+1757,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,5472.040644237132,r,trend
+1758,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,5500.188065596042,r,trend
+1759,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,5507.845313435855,r,trend
+1760,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,5573.371019035437,r,trend
+1761,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,5649.6117163414165,r,trend
+1762,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,5659.605538261636,r,trend
+1763,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,5659.180876935847,r,trend
+1764,el retiro Farm,2023-10-01,,r,trend
+1765,el retiro Farm,2024-01-01,,r,trend
+1766,el retiro Farm,2024-04-01,,r,trend
+1767,el retiro Farm,2024-07-01,,r,trend
+1768,el retiro Farm,2024-10-01,,r,trend
+1769,el retiro Farm,2025-01-01,,r,trend
+1770,el retiro Farm,2025-04-01,,r,trend
+1771,el retiro Farm,2025-07-01,,r,trend
+1772,el retiro Farm,2025-10-01,,r,trend
+1773,el retiro Farm,2026-01-01,,r,trend
+1774,el retiro Farm,2026-04-01,,r,trend
+1775,el retiro Farm,2026-07-01,,r,trend
+1776,el retiro Farm,2026-10-01,,r,trend
+1777,el retiro Farm,2027-01-01,,r,trend
+1778,el retiro Farm,2027-04-01,,r,trend
+1779,el retiro Farm,2027-07-01,,r,trend
+1780,el retiro Farm,2027-10-01,,r,trend
+1781,el retiro Farm,2028-01-01,,r,trend
+1782,el retiro Farm,2028-04-01,,r,trend
+1783,el retiro Farm,2028-07-01,,r,trend
+1784,el retiro Farm,2028-10-01,,r,trend
+1785,la moraleja Property,2023-10-01,,r,trend
+1786,la moraleja Property,2024-01-01,,r,trend
+1787,la moraleja Property,2024-04-01,,r,trend
+1788,la moraleja Property,2024-07-01,,r,trend
+1789,la moraleja Property,2024-10-01,,r,trend
+1790,la moraleja Property,2025-01-01,,r,trend
+1791,la moraleja Property,2025-04-01,,r,trend
+1792,la moraleja Property,2025-07-01,,r,trend
+1793,la moraleja Property,2025-10-01,,r,trend
+1794,la moraleja Property,2026-01-01,,r,trend
+1795,la moraleja Property,2026-04-01,,r,trend
+1796,la moraleja Property,2026-07-01,,r,trend
+1797,la moraleja Property,2026-10-01,,r,trend
+1798,la moraleja Property,2027-01-01,,r,trend
+1799,la moraleja Property,2027-04-01,,r,trend
+1800,la moraleja Property,2027-07-01,,r,trend
+1801,la moraleja Property,2027-10-01,,r,trend
+1802,la moraleja Property,2028-01-01,,r,trend
+1803,la moraleja Property,2028-04-01,,r,trend
+1804,la moraleja Property,2028-07-01,,r,trend
+1805,la moraleja Property,2028-10-01,,r,trend
+1806,la volcana Apartments,2023-10-01,,r,trend
+1807,la volcana Apartments,2024-01-01,,r,trend
+1808,la volcana Apartments,2024-04-01,,r,trend
+1809,la volcana Apartments,2024-07-01,,r,trend
+1810,la volcana Apartments,2024-10-01,,r,trend
+1811,la volcana Apartments,2025-01-01,,r,trend
+1812,la volcana Apartments,2025-04-01,,r,trend
+1813,la volcana Apartments,2025-07-01,,r,trend
+1814,la volcana Apartments,2025-10-01,,r,trend
+1815,la volcana Apartments,2026-01-01,,r,trend
+1816,la volcana Apartments,2026-04-01,,r,trend
+1817,la volcana Apartments,2026-07-01,,r,trend
+1818,la volcana Apartments,2026-10-01,,r,trend
+1819,la volcana Apartments,2027-01-01,,r,trend
+1820,la volcana Apartments,2027-04-01,,r,trend
+1821,la volcana Apartments,2027-07-01,,r,trend
+1822,la volcana Apartments,2027-10-01,,r,trend
+1823,la volcana Apartments,2028-01-01,,r,trend
+1824,la volcana Apartments,2028-04-01,,r,trend
+1825,la volcana Apartments,2028-07-01,,r,trend
+1826,la volcana Apartments,2028-10-01,,r,trend
+1827,lagasca Property,2023-10-01,,r,trend
+1828,lagasca Property,2024-01-01,,r,trend
+1829,lagasca Property,2024-04-01,,r,trend
+1830,lagasca Property,2024-07-01,,r,trend
+1831,lagasca Property,2024-10-01,,r,trend
+1832,lagasca Property,2025-01-01,,r,trend
+1833,lagasca Property,2025-04-01,,r,trend
+1834,lagasca Property,2025-07-01,,r,trend
+1835,lagasca Property,2025-10-01,,r,trend
+1836,lagasca Property,2026-01-01,,r,trend
+1837,lagasca Property,2026-04-01,,r,trend
+1838,lagasca Property,2026-07-01,,r,trend
+1839,lagasca Property,2026-10-01,,r,trend
+1840,lagasca Property,2027-01-01,,r,trend
+1841,lagasca Property,2027-04-01,,r,trend
+1842,lagasca Property,2027-07-01,,r,trend
+1843,lagasca Property,2027-10-01,,r,trend
+1844,lagasca Property,2028-01-01,,r,trend
+1845,lagasca Property,2028-04-01,,r,trend
+1846,lagasca Property,2028-07-01,,r,trend
+1847,lagasca Property,2028-10-01,,r,trend
+1848,Patricia Manor Place,2023-10-01,882.841639085221,r,upside
+1849,Patricia Manor Place,2024-01-01,883.2720559204683,r,upside
+1850,Patricia Manor Place,2024-04-01,893.5644889606195,r,upside
+1851,Patricia Manor Place,2024-07-01,894.5050778034281,r,upside
+1852,Patricia Manor Place,2024-10-01,895.3246088281285,r,upside
+1853,Patricia Manor Place,2025-01-01,903.4055450594684,r,upside
+1854,Patricia Manor Place,2025-04-01,911.4676990974497,r,upside
+1855,Patricia Manor Place,2025-07-01,913.4497921246569,r,upside
+1856,Patricia Manor Place,2025-10-01,914.2521009888812,r,upside
+1857,Patricia Manor Place,2026-01-01,922.0444055751118,r,upside
+1858,Patricia Manor Place,2026-04-01,929.4384707307618,r,upside
+1859,Patricia Manor Place,2026-07-01,931.0640002341275,r,upside
+1860,Patricia Manor Place,2026-10-01,932.0212170305648,r,upside
+1861,Patricia Manor Place,2027-01-01,940.0276164993685,r,upside
+1862,Patricia Manor Place,2027-04-01,947.8185911700648,r,upside
+1863,Patricia Manor Place,2027-07-01,949.2540954512018,r,upside
+1864,Patricia Manor Place,2027-10-01,949.4874440824631,r,upside
+1865,Patricia Manor Place,2028-01-01,957.2086256664105,r,upside
+1866,Patricia Manor Place,2028-04-01,964.7215569647248,r,upside
+1867,Patricia Manor Place,2028-07-01,965.7582903774967,r,upside
+1868,Patricia Manor Place,2028-10-01,965.7267646594679,r,upside
+1869,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,910.265499831922,r,upside
+1870,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,910.2580543821099,r,upside
+1871,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,938.7592869125943,r,upside
+1872,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,940.6312122041171,r,upside
+1873,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,941.6314964871756,r,upside
+1874,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,952.52287201294,r,upside
+1875,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,966.4003922967819,r,upside
+1876,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,968.089573148318,r,upside
+1877,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,967.7269317239432,r,upside
+1878,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,977.7714444633258,r,upside
+1879,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,991.0122211331908,r,upside
+1880,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,992.097892457968,r,upside
+1881,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,991.7595757211672,r,upside
+1882,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,1002.2023728685688,r,upside
+1883,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,1016.0606518845788,r,upside
+1884,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,1017.1616397814395,r,upside
+1885,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,1015.626155570799,r,upside
+1886,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,1025.8641533160699,r,upside
+1887,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,1038.8714852269914,r,upside
+1888,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,1039.0733802838486,r,upside
+1889,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,1037.3826744047662,r,upside
+1890,Sutton Place,2023-10-01,842.8843412202657,r,upside
+1891,Sutton Place,2024-01-01,843.2952774454799,r,upside
+1892,Sutton Place,2024-04-01,853.1218763036745,r,upside
+1893,Sutton Place,2024-07-01,854.0198942176814,r,upside
+1894,Sutton Place,2024-10-01,854.8023333746971,r,upside
+1895,Sutton Place,2025-01-01,862.5175274822765,r,upside
+1896,Sutton Place,2025-04-01,870.2147894761279,r,upside
+1897,Sutton Place,2025-07-01,872.1071732304849,r,upside
+1898,Sutton Place,2025-10-01,872.8731696997697,r,upside
+1899,Sutton Place,2026-01-01,880.3127955929913,r,upside
+1900,Sutton Place,2026-04-01,887.3722063205115,r,upside
+1901,Sutton Place,2026-07-01,888.924164569783,r,upside
+1902,Sutton Place,2026-10-01,889.8380578583981,r,upside
+1903,Sutton Place,2027-01-01,897.4820887276279,r,upside
+1904,Sutton Place,2027-04-01,904.9204448971195,r,upside
+1905,Sutton Place,2027-07-01,906.2909784410275,r,upside
+1906,Sutton Place,2027-10-01,906.5137657435602,r,upside
+1907,Sutton Place,2028-01-01,913.88548765234,r,upside
+1908,Sutton Place,2028-04-01,921.0583846563534,r,upside
+1909,Sutton Place,2028-07-01,922.0481956495806,r,upside
+1910,Sutton Place,2028-10-01,922.0180967814532,r,upside
+1911,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,5015.261253065663,r,upside
+1912,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,5015.150633397564,r,upside
+1913,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,5030.2872729331675,r,upside
+1914,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,5069.177586877899,r,upside
+1915,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,5179.35482904614,r,upside
+1916,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,5151.457956701721,r,upside
+1917,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,5150.883724413287,r,upside
+1918,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,5248.475851099467,r,upside
+1919,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,5034.376703560386,r,upside
+1920,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,5090.696012172325,r,upside
+1921,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,5241.910774160091,r,upside
+1922,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,5305.27840680005,r,upside
+1923,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,5246.199368861887,r,upside
+1924,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,5340.934412152178,r,upside
+1925,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,5419.60904820997,r,upside
+1926,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,5434.59648431182,r,upside
+1927,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,5428.503275921158,r,upside
+1928,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,5478.640170474998,r,upside
+1929,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,5538.815696687744,r,upside
+1930,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,5534.065897670653,r,upside
+1931,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,5518.691839110429,r,upside
+1932,el retiro Farm,2023-10-01,,r,upside
+1933,el retiro Farm,2024-01-01,,r,upside
+1934,el retiro Farm,2024-04-01,,r,upside
+1935,el retiro Farm,2024-07-01,,r,upside
+1936,el retiro Farm,2024-10-01,,r,upside
+1937,el retiro Farm,2025-01-01,,r,upside
+1938,el retiro Farm,2025-04-01,,r,upside
+1939,el retiro Farm,2025-07-01,,r,upside
+1940,el retiro Farm,2025-10-01,,r,upside
+1941,el retiro Farm,2026-01-01,,r,upside
+1942,el retiro Farm,2026-04-01,,r,upside
+1943,el retiro Farm,2026-07-01,,r,upside
+1944,el retiro Farm,2026-10-01,,r,upside
+1945,el retiro Farm,2027-01-01,,r,upside
+1946,el retiro Farm,2027-04-01,,r,upside
+1947,el retiro Farm,2027-07-01,,r,upside
+1948,el retiro Farm,2027-10-01,,r,upside
+1949,el retiro Farm,2028-01-01,,r,upside
+1950,el retiro Farm,2028-04-01,,r,upside
+1951,el retiro Farm,2028-07-01,,r,upside
+1952,el retiro Farm,2028-10-01,,r,upside
+1953,la moraleja Property,2023-10-01,,r,upside
+1954,la moraleja Property,2024-01-01,,r,upside
+1955,la moraleja Property,2024-04-01,,r,upside
+1956,la moraleja Property,2024-07-01,,r,upside
+1957,la moraleja Property,2024-10-01,,r,upside
+1958,la moraleja Property,2025-01-01,,r,upside
+1959,la moraleja Property,2025-04-01,,r,upside
+1960,la moraleja Property,2025-07-01,,r,upside
+1961,la moraleja Property,2025-10-01,,r,upside
+1962,la moraleja Property,2026-01-01,,r,upside
+1963,la moraleja Property,2026-04-01,,r,upside
+1964,la moraleja Property,2026-07-01,,r,upside
+1965,la moraleja Property,2026-10-01,,r,upside
+1966,la moraleja Property,2027-01-01,,r,upside
+1967,la moraleja Property,2027-04-01,,r,upside
+1968,la moraleja Property,2027-07-01,,r,upside
+1969,la moraleja Property,2027-10-01,,r,upside
+1970,la moraleja Property,2028-01-01,,r,upside
+1971,la moraleja Property,2028-04-01,,r,upside
+1972,la moraleja Property,2028-07-01,,r,upside
+1973,la moraleja Property,2028-10-01,,r,upside
+1974,la volcana Apartments,2023-10-01,,r,upside
+1975,la volcana Apartments,2024-01-01,,r,upside
+1976,la volcana Apartments,2024-04-01,,r,upside
+1977,la volcana Apartments,2024-07-01,,r,upside
+1978,la volcana Apartments,2024-10-01,,r,upside
+1979,la volcana Apartments,2025-01-01,,r,upside
+1980,la volcana Apartments,2025-04-01,,r,upside
+1981,la volcana Apartments,2025-07-01,,r,upside
+1982,la volcana Apartments,2025-10-01,,r,upside
+1983,la volcana Apartments,2026-01-01,,r,upside
+1984,la volcana Apartments,2026-04-01,,r,upside
+1985,la volcana Apartments,2026-07-01,,r,upside
+1986,la volcana Apartments,2026-10-01,,r,upside
+1987,la volcana Apartments,2027-01-01,,r,upside
+1988,la volcana Apartments,2027-04-01,,r,upside
+1989,la volcana Apartments,2027-07-01,,r,upside
+1990,la volcana Apartments,2027-10-01,,r,upside
+1991,la volcana Apartments,2028-01-01,,r,upside
+1992,la volcana Apartments,2028-04-01,,r,upside
+1993,la volcana Apartments,2028-07-01,,r,upside
+1994,la volcana Apartments,2028-10-01,,r,upside
+1995,lagasca Property,2023-10-01,,r,upside
+1996,lagasca Property,2024-01-01,,r,upside
+1997,lagasca Property,2024-04-01,,r,upside
+1998,lagasca Property,2024-07-01,,r,upside
+1999,lagasca Property,2024-10-01,,r,upside
+2000,lagasca Property,2025-01-01,,r,upside
+2001,lagasca Property,2025-04-01,,r,upside
+2002,lagasca Property,2025-07-01,,r,upside
+2003,lagasca Property,2025-10-01,,r,upside
+2004,lagasca Property,2026-01-01,,r,upside
+2005,lagasca Property,2026-04-01,,r,upside
+2006,lagasca Property,2026-07-01,,r,upside
+2007,lagasca Property,2026-10-01,,r,upside
+2008,lagasca Property,2027-01-01,,r,upside
+2009,lagasca Property,2027-04-01,,r,upside
+2010,lagasca Property,2027-07-01,,r,upside
+2011,lagasca Property,2027-10-01,,r,upside
+2012,lagasca Property,2028-01-01,,r,upside
+2013,lagasca Property,2028-04-01,,r,upside
+2014,lagasca Property,2028-07-01,,r,upside
+2015,lagasca Property,2028-10-01,,r,upside
+2016,Patricia Manor Place,2023-10-01,74740.7804,price,mean
+2017,Patricia Manor Place,2024-01-01,73868.11082097341,price,mean
+2018,Patricia Manor Place,2024-04-01,73199.31756156476,price,mean
+2019,Patricia Manor Place,2024-07-01,72755.64519393045,price,mean
+2020,Patricia Manor Place,2024-10-01,72523.2635919812,price,mean
+2021,Patricia Manor Place,2025-01-01,72382.22766034202,price,mean
+2022,Patricia Manor Place,2025-04-01,72378.53412397511,price,mean
+2023,Patricia Manor Place,2025-07-01,72508.30836058261,price,mean
+2024,Patricia Manor Place,2025-10-01,72681.48402356947,price,mean
+2025,Patricia Manor Place,2026-01-01,72960.89750332615,price,mean
+2026,Patricia Manor Place,2026-04-01,73295.18339234366,price,mean
+2027,Patricia Manor Place,2026-07-01,73648.17759632389,price,mean
+2028,Patricia Manor Place,2026-10-01,74120.72764646106,price,mean
+2029,Patricia Manor Place,2027-01-01,74580.62399598167,price,mean
+2030,Patricia Manor Place,2027-04-01,75035.74362072509,price,mean
+2031,Patricia Manor Place,2027-07-01,75666.22384933855,price,mean
+2032,Patricia Manor Place,2027-10-01,76326.95688823059,price,mean
+2033,Patricia Manor Place,2028-01-01,76942.13671332125,price,mean
+2034,Patricia Manor Place,2028-04-01,77614.20612727733,price,mean
+2035,Patricia Manor Place,2028-07-01,78332.20078928173,price,mean
+2036,Patricia Manor Place,2028-10-01,79033.83552194889,price,mean
+2037,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,75850.7831,price,mean
+2038,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,75794.21352202324,price,mean
+2039,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,75912.51927920649,price,mean
+2040,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,76089.13082911039,price,mean
+2041,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,76458.73955121949,price,mean
+2042,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,76980.31423519959,price,mean
+2043,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,77545.56864900484,price,mean
+2044,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,78118.72342680492,price,mean
+2045,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,78728.78926401531,price,mean
+2046,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,79300.02708464794,price,mean
+2047,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,80008.70962896227,price,mean
+2048,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,80701.48502582325,price,mean
+2049,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,81343.59227829067,price,mean
+2050,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,82013.02169199681,price,mean
+2051,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,82702.2674017032,price,mean
+2052,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,83307.63966355362,price,mean
+2053,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,84107.65372055516,price,mean
+2054,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,84818.7714706714,price,mean
+2055,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,85484.55870041867,price,mean
+2056,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,86162.84132996268,price,mean
+2057,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,86831.28461309957,price,mean
+2058,Sutton Place,2023-10-01,84325.743,price,mean
+2059,Sutton Place,2024-01-01,84011.42687228955,price,mean
+2060,Sutton Place,2024-04-01,83947.92457058163,price,mean
+2061,Sutton Place,2024-07-01,84102.55703681034,price,mean
+2062,Sutton Place,2024-10-01,84418.91816295694,price,mean
+2063,Sutton Place,2025-01-01,84872.93585237995,price,mean
+2064,Sutton Place,2025-04-01,85439.53111303205,price,mean
+2065,Sutton Place,2025-07-01,86098.37879571556,price,mean
+2066,Sutton Place,2025-10-01,86835.78719532739,price,mean
+2067,Sutton Place,2026-01-01,87637.15916001133,price,mean
+2068,Sutton Place,2026-04-01,88495.88937077661,price,mean
+2069,Sutton Place,2026-07-01,89400.52166155097,price,mean
+2070,Sutton Place,2026-10-01,90346.96331776174,price,mean
+2071,Sutton Place,2027-01-01,91328.22538504838,price,mean
+2072,Sutton Place,2027-04-01,92341.66620627153,price,mean
+2073,Sutton Place,2027-07-01,93383.25328795206,price,mean
+2074,Sutton Place,2027-10-01,94450.23400999574,price,mean
+2075,Sutton Place,2028-01-01,95542.1891069181,price,mean
+2076,Sutton Place,2028-04-01,96655.39597177459,price,mean
+2077,Sutton Place,2028-07-01,97789.48718170819,price,mean
+2078,Sutton Place,2028-10-01,98942.05044809933,price,mean
+2079,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,451573.0711,price,mean
+2080,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,452215.53360388015,price,mean
+2081,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,453851.54332163854,price,mean
+2082,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,455355.57409702905,price,mean
+2083,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,457134.9578991816,price,mean
+2084,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,458748.8650776641,price,mean
+2085,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,460450.2196570506,price,mean
+2086,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,462333.98916830303,price,mean
+2087,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,464258.5068933436,price,mean
+2088,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,466598.3749339252,price,mean
+2089,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,468851.6699972869,price,mean
+2090,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,469709.26346056274,price,mean
+2091,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,471459.41564658313,price,mean
+2092,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,473668.381959513,price,mean
+2093,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,474590.22106836236,price,mean
+2094,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,476095.0728886282,price,mean
+2095,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,479949.2992986661,price,mean
+2096,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,479919.90862105053,price,mean
+2097,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,482377.12246884237,price,mean
+2098,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,484474.9188515382,price,mean
+2099,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,486917.8604005987,price,mean
+2100,el retiro Farm,2023-10-01,1520.760082437432,price,mean
+2101,el retiro Farm,2024-01-01,1528.694157067884,price,mean
+2102,el retiro Farm,2024-04-01,1568.5585519625206,price,mean
+2103,el retiro Farm,2024-07-01,1612.2398489013115,price,mean
+2104,el retiro Farm,2024-10-01,1626.6079572337676,price,mean
+2105,el retiro Farm,2025-01-01,1637.9682162382924,price,mean
+2106,el retiro Farm,2025-04-01,1653.1071930505536,price,mean
+2107,el retiro Farm,2025-07-01,1674.6627269548637,price,mean
+2108,el retiro Farm,2025-10-01,1688.4006607885628,price,mean
+2109,el retiro Farm,2026-01-01,1698.5166990160424,price,mean
+2110,el retiro Farm,2026-04-01,1713.7959790097477,price,mean
+2111,el retiro Farm,2026-07-01,1736.2452993818818,price,mean
+2112,el retiro Farm,2026-10-01,1748.7632399662573,price,mean
+2113,el retiro Farm,2027-01-01,1765.340164522491,price,mean
+2114,el retiro Farm,2027-04-01,1781.7357351075339,price,mean
+2115,el retiro Farm,2027-07-01,1792.4723982752178,price,mean
+2116,el retiro Farm,2027-10-01,1811.19815666262,price,mean
+2117,el retiro Farm,2028-01-01,1829.9427803268386,price,mean
+2118,el retiro Farm,2028-04-01,1850.6063284326965,price,mean
+2119,el retiro Farm,2028-07-01,1863.9689037518979,price,mean
+2120,el retiro Farm,2028-10-01,1885.644743556799,price,mean
+2121,la moraleja Property,2023-10-01,6225.534658245724,price,mean
+2122,la moraleja Property,2024-01-01,6230.461269983903,price,mean
+2123,la moraleja Property,2024-04-01,6223.066208056694,price,mean
+2124,la moraleja Property,2024-07-01,6216.549551316493,price,mean
+2125,la moraleja Property,2024-10-01,6203.717525564717,price,mean
+2126,la moraleja Property,2025-01-01,6192.092497989034,price,mean
+2127,la moraleja Property,2025-04-01,6180.000253771835,price,mean
+2128,la moraleja Property,2025-07-01,6168.125462142158,price,mean
+2129,la moraleja Property,2025-10-01,6155.954374075525,price,mean
+2130,la moraleja Property,2026-01-01,6143.916861355617,price,mean
+2131,la moraleja Property,2026-04-01,6131.891375222648,price,mean
+2132,la moraleja Property,2026-07-01,6119.910969234722,price,mean
+2133,la moraleja Property,2026-10-01,6107.939138699417,price,mean
+2134,la moraleja Property,2027-01-01,6095.9999972976275,price,mean
+2135,la moraleja Property,2027-04-01,6084.084759343676,price,mean
+2136,la moraleja Property,2027-07-01,6072.194795278918,price,mean
+2137,la moraleja Property,2027-10-01,6060.327484706836,price,mean
+2138,la moraleja Property,2028-01-01,6048.484110756043,price,mean
+2139,la moraleja Property,2028-04-01,6036.664003899516,price,mean
+2140,la moraleja Property,2028-07-01,6024.867163434361,price,mean
+2141,la moraleja Property,2028-10-01,6013.093363121962,price,mean
+2142,la volcana Apartments,2023-10-01,1634.243681581129,price,mean
+2143,la volcana Apartments,2024-01-01,1657.177057282225,price,mean
+2144,la volcana Apartments,2024-04-01,1704.5992428885434,price,mean
+2145,la volcana Apartments,2024-07-01,1757.7892207365464,price,mean
+2146,la volcana Apartments,2024-10-01,1770.7354777108367,price,mean
+2147,la volcana Apartments,2025-01-01,1789.8736149440333,price,mean
+2148,la volcana Apartments,2025-04-01,1808.8158517910595,price,mean
+2149,la volcana Apartments,2025-07-01,1835.679652064201,price,mean
+2150,la volcana Apartments,2025-10-01,1852.3093894688488,price,mean
+2151,la volcana Apartments,2026-01-01,1869.2275350985972,price,mean
+2152,la volcana Apartments,2026-04-01,1889.1089373390453,price,mean
+2153,la volcana Apartments,2026-07-01,1904.8844022076296,price,mean
+2154,la volcana Apartments,2026-10-01,1924.0843344318655,price,mean
+2155,la volcana Apartments,2027-01-01,1942.9071151647804,price,mean
+2156,la volcana Apartments,2027-04-01,1959.5855170041434,price,mean
+2157,la volcana Apartments,2027-07-01,1977.8598560479786,price,mean
+2158,la volcana Apartments,2027-10-01,1991.5368324330955,price,mean
+2159,la volcana Apartments,2028-01-01,2010.5020545350478,price,mean
+2160,la volcana Apartments,2028-04-01,2018.2642388227541,price,mean
+2161,la volcana Apartments,2028-07-01,2036.4902585245557,price,mean
+2162,la volcana Apartments,2028-10-01,2062.0270799938476,price,mean
+2163,lagasca Property,2023-10-01,7385.972599375407,price,mean
+2164,lagasca Property,2024-01-01,7409.16498259777,price,mean
+2165,lagasca Property,2024-04-01,7403.846286944543,price,mean
+2166,lagasca Property,2024-07-01,7401.466436629661,price,mean
+2167,lagasca Property,2024-10-01,7405.912731343896,price,mean
+2168,lagasca Property,2025-01-01,7426.621746501928,price,mean
+2169,lagasca Property,2025-04-01,7442.34417194969,price,mean
+2170,lagasca Property,2025-07-01,7460.26725090791,price,mean
+2171,lagasca Property,2025-10-01,7490.25209687149,price,mean
+2172,lagasca Property,2026-01-01,7502.193243564417,price,mean
+2173,lagasca Property,2026-04-01,7517.649587979263,price,mean
+2174,lagasca Property,2026-07-01,7537.496856726358,price,mean
+2175,lagasca Property,2026-10-01,7564.3913048609875,price,mean
+2176,lagasca Property,2027-01-01,7575.672960998023,price,mean
+2177,lagasca Property,2027-04-01,7590.422065625192,price,mean
+2178,lagasca Property,2027-07-01,7621.826580864766,price,mean
+2179,lagasca Property,2027-10-01,7637.4805020784925,price,mean
+2180,lagasca Property,2028-01-01,7637.807419519345,price,mean
+2181,lagasca Property,2028-04-01,7658.30797580137,price,mean
+2182,lagasca Property,2028-07-01,7680.007147503294,price,mean
+2183,lagasca Property,2028-10-01,7709.221891164732,price,mean
+2184,Patricia Manor Place,2023-10-01,74740.7804,price,lower
+2185,Patricia Manor Place,2024-01-01,73697.42258602487,price,lower
+2186,Patricia Manor Place,2024-04-01,73060.91766643143,price,lower
+2187,Patricia Manor Place,2024-07-01,72584.29319669653,price,lower
+2188,Patricia Manor Place,2024-10-01,72444.99580593134,price,lower
+2189,Patricia Manor Place,2025-01-01,72182.74462828475,price,lower
+2190,Patricia Manor Place,2025-04-01,72247.33046989354,price,lower
+2191,Patricia Manor Place,2025-07-01,72401.33812104432,price,lower
+2192,Patricia Manor Place,2025-10-01,72604.56673665666,price,lower
+2193,Patricia Manor Place,2026-01-01,72911.54634967748,price,lower
+2194,Patricia Manor Place,2026-04-01,73277.29631838054,price,lower
+2195,Patricia Manor Place,2026-07-01,73727.45655921454,price,lower
+2196,Patricia Manor Place,2026-10-01,74104.2087547873,price,lower
+2197,Patricia Manor Place,2027-01-01,74627.42602014374,price,lower
+2198,Patricia Manor Place,2027-04-01,75204.87484910944,price,lower
+2199,Patricia Manor Place,2027-07-01,75823.97131132057,price,lower
+2200,Patricia Manor Place,2027-10-01,76339.06337512845,price,lower
+2201,Patricia Manor Place,2028-01-01,77050.62774010259,price,lower
+2202,Patricia Manor Place,2028-04-01,77759.68265807736,price,lower
+2203,Patricia Manor Place,2028-07-01,78577.68846013435,price,lower
+2204,Patricia Manor Place,2028-10-01,79328.68118039134,price,lower
+2205,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,75850.7831,price,lower
+2206,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,74622.38835915782,price,lower
+2207,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,74476.89494556257,price,lower
+2208,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,74494.60453699257,price,lower
+2209,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,74639.61556814112,price,lower
+2210,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,75012.72882041875,price,lower
+2211,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,75222.37956412211,price,lower
+2212,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,75760.04711742255,price,lower
+2213,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,76262.30660568751,price,lower
+2214,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,76665.46234446883,price,lower
+2215,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,77141.99530237458,price,lower
+2216,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,77681.68983268244,price,lower
+2217,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,78111.41997138724,price,lower
+2218,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,78715.97863771381,price,lower
+2219,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,79439.50664335744,price,lower
+2220,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,80059.05948658315,price,lower
+2221,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,80737.29446477938,price,lower
+2222,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,81169.54986648417,price,lower
+2223,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,81595.94571153683,price,lower
+2224,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,82206.6968529998,price,lower
+2225,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,82610.6053655465,price,lower
+2226,Sutton Place,2023-10-01,84325.743,price,lower
+2227,Sutton Place,2024-01-01,84019.44246023805,price,lower
+2228,Sutton Place,2024-04-01,83959.85641196356,price,lower
+2229,Sutton Place,2024-07-01,84116.5752594726,price,lower
+2230,Sutton Place,2024-10-01,84436.60609012686,price,lower
+2231,Sutton Place,2025-01-01,84892.96789840871,price,lower
+2232,Sutton Place,2025-04-01,85461.88255235557,price,lower
+2233,Sutton Place,2025-07-01,86124.61572544709,price,lower
+2234,Sutton Place,2025-10-01,86864.70036708491,price,lower
+2235,Sutton Place,2026-01-01,87668.25050565912,price,lower
+2236,Sutton Place,2026-04-01,88526.03136417372,price,lower
+2237,Sutton Place,2026-07-01,89432.60875993645,price,lower
+2238,Sutton Place,2026-10-01,90380.12891496152,price,lower
+2239,Sutton Place,2027-01-01,91364.39155636195,price,lower
+2240,Sutton Place,2027-04-01,92380.35045290668,price,lower
+2241,Sutton Place,2027-07-01,93422.9196644662,price,lower
+2242,Sutton Place,2027-10-01,94493.8011600745,price,lower
+2243,Sutton Place,2028-01-01,95587.5121621006,price,lower
+2244,Sutton Place,2028-04-01,96701.78185178337,price,lower
+2245,Sutton Place,2028-07-01,97835.68283412918,price,lower
+2246,Sutton Place,2028-10-01,98990.66288667909,price,lower
+2247,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,451573.0711,price,lower
+2248,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,442403.6889181493,price,lower
+2249,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,438337.36615326436,price,lower
+2250,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,433423.54454890464,price,lower
+2251,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,433083.7316342086,price,lower
+2252,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,429925.4504499146,price,lower
+2253,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,425021.76318259723,price,lower
+2254,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,426933.4029261002,price,lower
+2255,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,424063.56606567383,price,lower
+2256,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,422755.57805155,price,lower
+2257,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,420676.9378539884,price,lower
+2258,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,422699.5705659211,price,lower
+2259,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,420946.0870852905,price,lower
+2260,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,422448.4637367662,price,lower
+2261,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,418903.68339711026,price,lower
+2262,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,418256.0381332313,price,lower
+2263,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,417551.5785879123,price,lower
+2264,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,419043.86015249166,price,lower
+2265,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,417348.6583027956,price,lower
+2266,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,415850.17225900176,price,lower
+2267,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,414357.4077455972,price,lower
+2268,el retiro Farm,2023-10-01,1520.760082437432,price,lower
+2269,el retiro Farm,2024-01-01,1426.3784667464897,price,lower
+2270,el retiro Farm,2024-04-01,1413.3845858756254,price,lower
+2271,el retiro Farm,2024-07-01,1422.1271057970453,price,lower
+2272,el retiro Farm,2024-10-01,1405.8781886815898,price,lower
+2273,el retiro Farm,2025-01-01,1386.4706647475853,price,lower
+2274,el retiro Farm,2025-04-01,1389.2155119499148,price,lower
+2275,el retiro Farm,2025-07-01,1382.3253626581172,price,lower
+2276,el retiro Farm,2025-10-01,1380.869101252248,price,lower
+2277,el retiro Farm,2026-01-01,1369.9098066561844,price,lower
+2278,el retiro Farm,2026-04-01,1371.5313913988387,price,lower
+2279,el retiro Farm,2026-07-01,1364.3173488274633,price,lower
+2280,el retiro Farm,2026-10-01,1372.8244406735064,price,lower
+2281,el retiro Farm,2027-01-01,1366.8557900728856,price,lower
+2282,el retiro Farm,2027-04-01,1363.4006521434674,price,lower
+2283,el retiro Farm,2027-07-01,1359.6022861804154,price,lower
+2284,el retiro Farm,2027-10-01,1365.8034683327228,price,lower
+2285,el retiro Farm,2028-01-01,1357.798282875345,price,lower
+2286,el retiro Farm,2028-04-01,1365.9610699871805,price,lower
+2287,el retiro Farm,2028-07-01,1371.1704620429605,price,lower
+2288,el retiro Farm,2028-10-01,1360.901383727891,price,lower
+2289,la moraleja Property,2023-10-01,6225.534658245724,price,lower
+2290,la moraleja Property,2024-01-01,6205.204024974685,price,lower
+2291,la moraleja Property,2024-04-01,6169.554099232026,price,lower
+2292,la moraleja Property,2024-07-01,6134.214696097153,price,lower
+2293,la moraleja Property,2024-10-01,6092.645189921606,price,lower
+2294,la moraleja Property,2025-01-01,6052.334446048316,price,lower
+2295,la moraleja Property,2025-04-01,6011.76512303709,price,lower
+2296,la moraleja Property,2025-07-01,5971.6439823373075,price,lower
+2297,la moraleja Property,2025-10-01,5931.4784430808295,price,lower
+2298,la moraleja Property,2026-01-01,5891.686913246956,price,lower
+2299,la moraleja Property,2026-04-01,5852.150841486211,price,lower
+2300,la moraleja Property,2026-07-01,5812.90051969325,price,lower
+2301,la moraleja Property,2026-10-01,5773.899331538632,price,lower
+2302,la moraleja Property,2027-01-01,5735.168568724231,price,lower
+2303,la moraleja Property,2027-04-01,5696.698137419278,price,lower
+2304,la moraleja Property,2027-07-01,5658.487615683549,price,lower
+2305,la moraleja Property,2027-10-01,5620.532847210524,price,lower
+2306,la moraleja Property,2028-01-01,5582.833352925829,price,lower
+2307,la moraleja Property,2028-04-01,5545.386839248339,price,lower
+2308,la moraleja Property,2028-07-01,5508.191649386251,price,lower
+2309,la moraleja Property,2028-10-01,5471.245930873022,price,lower
+2310,la volcana Apartments,2023-10-01,1634.243681581129,price,lower
+2311,la volcana Apartments,2024-01-01,1549.1817925237408,price,lower
+2312,la volcana Apartments,2024-04-01,1549.168379924251,price,lower
+2313,la volcana Apartments,2024-07-01,1562.8515834544191,price,lower
+2314,la volcana Apartments,2024-10-01,1550.1577436580108,price,lower
+2315,la volcana Apartments,2025-01-01,1532.77783634324,price,lower
+2316,la volcana Apartments,2025-04-01,1536.3715187564512,price,lower
+2317,la volcana Apartments,2025-07-01,1531.7436909629907,price,lower
+2318,la volcana Apartments,2025-10-01,1527.6504688826137,price,lower
+2319,la volcana Apartments,2026-01-01,1519.6614652740807,price,lower
+2320,la volcana Apartments,2026-04-01,1515.284230275425,price,lower
+2321,la volcana Apartments,2026-07-01,1512.271000433383,price,lower
+2322,la volcana Apartments,2026-10-01,1506.3670353786852,price,lower
+2323,la volcana Apartments,2027-01-01,1509.9956732593168,price,lower
+2324,la volcana Apartments,2027-04-01,1501.849117646937,price,lower
+2325,la volcana Apartments,2027-07-01,1506.2428815189453,price,lower
+2326,la volcana Apartments,2027-10-01,1506.6325804761673,price,lower
+2327,la volcana Apartments,2028-01-01,1502.7455531790658,price,lower
+2328,la volcana Apartments,2028-04-01,1506.9751329453015,price,lower
+2329,la volcana Apartments,2028-07-01,1512.5682048851777,price,lower
+2330,la volcana Apartments,2028-10-01,1510.5118486029266,price,lower
+2331,lagasca Property,2023-10-01,7385.972599375407,price,lower
+2332,lagasca Property,2024-01-01,7209.357403756649,price,lower
+2333,lagasca Property,2024-04-01,7108.013819593201,price,lower
+2334,lagasca Property,2024-07-01,7052.431211333465,price,lower
+2335,lagasca Property,2024-10-01,6994.166073275071,price,lower
+2336,lagasca Property,2025-01-01,6985.144755408535,price,lower
+2337,lagasca Property,2025-04-01,6956.664419535507,price,lower
+2338,lagasca Property,2025-07-01,6929.008089329067,price,lower
+2339,lagasca Property,2025-10-01,6896.599483863043,price,lower
+2340,lagasca Property,2026-01-01,6879.633204907435,price,lower
+2341,lagasca Property,2026-04-01,6881.14735318778,price,lower
+2342,lagasca Property,2026-07-01,6854.455612140032,price,lower
+2343,lagasca Property,2026-10-01,6833.258818032624,price,lower
+2344,lagasca Property,2027-01-01,6834.463555730048,price,lower
+2345,lagasca Property,2027-04-01,6832.0241519086685,price,lower
+2346,lagasca Property,2027-07-01,6812.775402348268,price,lower
+2347,lagasca Property,2027-10-01,6817.58332765416,price,lower
+2348,lagasca Property,2028-01-01,6801.264652457093,price,lower
+2349,lagasca Property,2028-04-01,6792.484459084276,price,lower
+2350,lagasca Property,2028-07-01,6771.6754833368495,price,lower
+2351,lagasca Property,2028-10-01,6786.255644044472,price,lower
+2352,Patricia Manor Place,2023-10-01,74740.7804,price,upper
+2353,Patricia Manor Place,2024-01-01,73933.0799052957,price,upper
+2354,Patricia Manor Place,2024-04-01,73295.84540792607,price,upper
+2355,Patricia Manor Place,2024-07-01,72903.87058089419,price,upper
+2356,Patricia Manor Place,2024-10-01,72577.84310389282,price,upper
+2357,Patricia Manor Place,2025-01-01,72400.95690953633,price,upper
+2358,Patricia Manor Place,2025-04-01,72449.53541333167,price,upper
+2359,Patricia Manor Place,2025-07-01,72465.8139298699,price,upper
+2360,Patricia Manor Place,2025-10-01,72787.22490797125,price,upper
+2361,Patricia Manor Place,2026-01-01,73058.31722462656,price,upper
+2362,Patricia Manor Place,2026-04-01,73435.3832315938,price,upper
+2363,Patricia Manor Place,2026-07-01,73905.01578407334,price,upper
+2364,Patricia Manor Place,2026-10-01,74329.81321715032,price,upper
+2365,Patricia Manor Place,2027-01-01,74792.65632076775,price,upper
+2366,Patricia Manor Place,2027-04-01,75349.36590408129,price,upper
+2367,Patricia Manor Place,2027-07-01,75940.175909627,price,upper
+2368,Patricia Manor Place,2027-10-01,76424.97080354675,price,upper
+2369,Patricia Manor Place,2028-01-01,77031.47065542483,price,upper
+2370,Patricia Manor Place,2028-04-01,77690.58868185172,price,upper
+2371,Patricia Manor Place,2028-07-01,78346.69158554239,price,upper
+2372,Patricia Manor Place,2028-10-01,79224.65573584168,price,upper
+2373,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,75850.7831,price,upper
+2374,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,76553.99647916718,price,upper
+2375,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,76946.93007013909,price,upper
+2376,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,77584.98129572779,price,upper
+2377,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,78201.73718401861,price,upper
+2378,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,78979.98814417742,price,upper
+2379,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,79761.37519711173,price,upper
+2380,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,80605.14047421038,price,upper
+2381,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,81382.41978977185,price,upper
+2382,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,82289.53533398053,price,upper
+2383,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,82899.62812270282,price,upper
+2384,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,83824.41190401163,price,upper
+2385,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,84559.07006198993,price,upper
+2386,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,85418.01033833127,price,upper
+2387,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,86414.52811124067,price,upper
+2388,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,87060.61238404698,price,upper
+2389,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,87934.29273153911,price,upper
+2390,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,88585.66947614064,price,upper
+2391,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,89624.69810617887,price,upper
+2392,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,90321.76060194035,price,upper
+2393,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,91199.9250678509,price,upper
+2394,Sutton Place,2023-10-01,84325.743,price,upper
+2395,Sutton Place,2024-01-01,84002.7826172483,price,upper
+2396,Sutton Place,2024-04-01,83935.71404790103,price,upper
+2397,Sutton Place,2024-07-01,84086.98894326726,price,upper
+2398,Sutton Place,2024-10-01,84399.80768556528,price,upper
+2399,Sutton Place,2025-01-01,84852.06477110852,price,upper
+2400,Sutton Place,2025-04-01,85417.01413942613,price,upper
+2401,Sutton Place,2025-07-01,86075.11734725707,price,upper
+2402,Sutton Place,2025-10-01,86810.00558653584,price,upper
+2403,Sutton Place,2026-01-01,87610.73450061756,price,upper
+2404,Sutton Place,2026-04-01,88463.59270137514,price,upper
+2405,Sutton Place,2026-07-01,89367.2776022051,price,upper
+2406,Sutton Place,2026-10-01,90311.87229580298,price,upper
+2407,Sutton Place,2027-01-01,91291.423224793,price,upper
+2408,Sutton Place,2027-04-01,92303.51093319044,price,upper
+2409,Sutton Place,2027-07-01,93342.97630004835,price,upper
+2410,Sutton Place,2027-10-01,94408.13040212447,price,upper
+2411,Sutton Place,2028-01-01,95497.77699907185,price,upper
+2412,Sutton Place,2028-04-01,96609.57301364624,price,upper
+2413,Sutton Place,2028-07-01,97740.62811725544,price,upper
+2414,Sutton Place,2028-10-01,98891.40944516093,price,upper
+2415,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,451573.0711,price,upper
+2416,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,464943.53657606605,price,upper
+2417,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,470997.893706781,price,upper
+2418,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,478011.42493363924,price,upper
+2419,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,483195.8545314961,price,upper
+2420,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,489506.92975129833,price,upper
+2421,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,496092.74606214697,price,upper
+2422,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,501078.26971042604,price,upper
+2423,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,506667.7094943479,price,upper
+2424,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,511744.0645902821,price,upper
+2425,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,515862.61947281956,price,upper
+2426,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,519867.43507394043,price,upper
+2427,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,523512.04126026254,price,upper
+2428,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,527098.9746386508,price,upper
+2429,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,532534.5192139604,price,upper
+2430,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,533411.9998741373,price,upper
+2431,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,538266.7123859255,price,upper
+2432,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,541069.5615247343,price,upper
+2433,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,546076.3075321078,price,upper
+2434,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,550025.2250977282,price,upper
+2435,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,552451.6053462243,price,upper
+2436,el retiro Farm,2023-10-01,1520.760082437432,price,upper
+2437,el retiro Farm,2024-01-01,1617.7683025586723,price,upper
+2438,el retiro Farm,2024-04-01,1714.1694380010242,price,upper
+2439,el retiro Farm,2024-07-01,1801.3191766767845,price,upper
+2440,el retiro Farm,2024-10-01,1840.8313365172369,price,upper
+2441,el retiro Farm,2025-01-01,1882.8464168232035,price,upper
+2442,el retiro Farm,2025-04-01,1930.661303521201,price,upper
+2443,el retiro Farm,2025-07-01,1991.3319526796117,price,upper
+2444,el retiro Farm,2025-10-01,2022.828356793282,price,upper
+2445,el retiro Farm,2026-01-01,2079.0455364449704,price,upper
+2446,el retiro Farm,2026-04-01,2109.4892553073687,price,upper
+2447,el retiro Farm,2026-07-01,2152.620407092658,price,upper
+2448,el retiro Farm,2026-10-01,2188.5203756878177,price,upper
+2449,el retiro Farm,2027-01-01,2236.627071531227,price,upper
+2450,el retiro Farm,2027-04-01,2262.496042043256,price,upper
+2451,el retiro Farm,2027-07-01,2322.8648168822324,price,upper
+2452,el retiro Farm,2027-10-01,2361.767294403595,price,upper
+2453,el retiro Farm,2028-01-01,2407.513701624133,price,upper
+2454,el retiro Farm,2028-04-01,2460.2544712860513,price,upper
+2455,el retiro Farm,2028-07-01,2506.6417132444067,price,upper
+2456,el retiro Farm,2028-10-01,2552.771534928496,price,upper
+2457,la moraleja Property,2023-10-01,6225.534658245724,price,upper
+2458,la moraleja Property,2024-01-01,6255.718514993119,price,upper
+2459,la moraleja Property,2024-04-01,6276.808574318672,price,upper
+2460,la moraleja Property,2024-07-01,6299.6164654105705,price,upper
+2461,la moraleja Property,2024-10-01,6316.299863394739,price,upper
+2462,la moraleja Property,2025-01-01,6334.418385855861,price,upper
+2463,la moraleja Property,2025-04-01,6352.138170587012,price,upper
+2464,la moraleja Property,2025-07-01,6370.119778008105,price,upper
+2465,la moraleja Property,2025-10-01,6387.826147076627,price,upper
+2466,la moraleja Property,2026-01-01,6405.697259797451,price,upper
+2467,la moraleja Property,2026-04-01,6423.6068522371925,price,upper
+2468,la moraleja Property,2026-07-01,6441.589212790513,price,upper
+2469,la moraleja Property,2026-10-01,6459.606335716599,price,upper
+2470,la moraleja Property,2027-01-01,6477.683670229082,price,upper
+2471,la moraleja Property,2027-04-01,6495.812199815029,price,upper
+2472,la moraleja Property,2027-07-01,6513.993583787211,price,upper
+2473,la moraleja Property,2027-10-01,6532.22523146392,price,upper
+2474,la moraleja Property,2028-01-01,6550.508708173921,price,upper
+2475,la moraleja Property,2028-04-01,6568.843492106541,price,upper
+2476,la moraleja Property,2028-07-01,6587.229776824223,price,upper
+2477,la moraleja Property,2028-10-01,6605.667510561266,price,upper
+2478,la volcana Apartments,2023-10-01,1634.243681581129,price,upper
+2479,la volcana Apartments,2024-01-01,1758.0946699381411,price,upper
+2480,la volcana Apartments,2024-04-01,1856.2538574998757,price,upper
+2481,la volcana Apartments,2024-07-01,1952.3999564084822,price,upper
+2482,la volcana Apartments,2024-10-01,2009.9483047899505,price,upper
+2483,la volcana Apartments,2025-01-01,2052.835819346099,price,upper
+2484,la volcana Apartments,2025-04-01,2111.2841150012473,price,upper
+2485,la volcana Apartments,2025-07-01,2174.600822023618,price,upper
+2486,la volcana Apartments,2025-10-01,2219.906784647968,price,upper
+2487,la volcana Apartments,2026-01-01,2265.071186280836,price,upper
+2488,la volcana Apartments,2026-04-01,2306.119757209199,price,upper
+2489,la volcana Apartments,2026-07-01,2348.453057305521,price,upper
+2490,la volcana Apartments,2026-10-01,2386.9932834903198,price,upper
+2491,la volcana Apartments,2027-01-01,2431.830801575283,price,upper
+2492,la volcana Apartments,2027-04-01,2486.731468918709,price,upper
+2493,la volcana Apartments,2027-07-01,2524.14998194349,price,upper
+2494,la volcana Apartments,2027-10-01,2563.7679199489226,price,upper
+2495,la volcana Apartments,2028-01-01,2590.9233656882134,price,upper
+2496,la volcana Apartments,2028-04-01,2647.761016043184,price,upper
+2497,la volcana Apartments,2028-07-01,2681.7326083841754,price,upper
+2498,la volcana Apartments,2028-10-01,2748.3486292989373,price,upper
+2499,lagasca Property,2023-10-01,7385.972599375407,price,upper
+2500,lagasca Property,2024-01-01,7604.719177454065,price,upper
+2501,lagasca Property,2024-04-01,7703.27421875992,price,upper
+2502,lagasca Property,2024-07-01,7776.044839799831,price,upper
+2503,lagasca Property,2024-10-01,7831.59389737869,price,upper
+2504,lagasca Property,2025-01-01,7891.905247820659,price,upper
+2505,lagasca Property,2025-04-01,7952.6944970149725,price,upper
+2506,lagasca Property,2025-07-01,8040.458834195255,price,upper
+2507,lagasca Property,2025-10-01,8091.6897009124805,price,upper
+2508,lagasca Property,2026-01-01,8158.172322071323,price,upper
+2509,lagasca Property,2026-04-01,8250.637089404589,price,upper
+2510,lagasca Property,2026-07-01,8291.21499260937,price,upper
+2511,lagasca Property,2026-10-01,8332.226746908713,price,upper
+2512,lagasca Property,2027-01-01,8375.95221418907,price,upper
+2513,lagasca Property,2027-04-01,8445.805923499609,price,upper
+2514,lagasca Property,2027-07-01,8498.63918999966,price,upper
+2515,lagasca Property,2027-10-01,8565.653077641316,price,upper
+2516,lagasca Property,2028-01-01,8582.90867296284,price,upper
+2517,lagasca Property,2028-04-01,8628.699702383783,price,upper
+2518,lagasca Property,2028-07-01,8689.992293137555,price,upper
+2519,lagasca Property,2028-10-01,8709.403403951543,price,upper
+2520,Patricia Manor Place,2023-10-01,882.841639085221,r,mean
+2521,Patricia Manor Place,2024-01-01,882.7780209864178,r,mean
+2522,Patricia Manor Place,2024-04-01,886.7160448952638,r,mean
+2523,Patricia Manor Place,2024-07-01,890.7463426423193,r,mean
+2524,Patricia Manor Place,2024-10-01,899.014343684777,r,mean
+2525,Patricia Manor Place,2025-01-01,907.0004056510969,r,mean
+2526,Patricia Manor Place,2025-04-01,914.799682552578,r,mean
+2527,Patricia Manor Place,2025-07-01,922.7328791805251,r,mean
+2528,Patricia Manor Place,2025-10-01,930.3232193622767,r,mean
+2529,Patricia Manor Place,2026-01-01,938.0297887673636,r,mean
+2530,Patricia Manor Place,2026-04-01,945.8347409407755,r,mean
+2531,Patricia Manor Place,2026-07-01,953.7009645399332,r,mean
+2532,Patricia Manor Place,2026-10-01,961.6775981373585,r,mean
+2533,Patricia Manor Place,2027-01-01,969.7159921624764,r,mean
+2534,Patricia Manor Place,2027-04-01,977.818264291929,r,mean
+2535,Patricia Manor Place,2027-07-01,985.9887739899922,r,mean
+2536,Patricia Manor Place,2027-10-01,994.222878567673,r,mean
+2537,Patricia Manor Place,2028-01-01,1002.5263026063992,r,mean
+2538,Patricia Manor Place,2028-04-01,1010.8994387330571,r,mean
+2539,Patricia Manor Place,2028-07-01,1019.3424574945857,r,mean
+2540,Patricia Manor Place,2028-10-01,1027.8564889408528,r,mean
+2541,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,910.265499831922,r,mean
+2542,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,927.4069067300586,r,mean
+2543,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,949.584160099588,r,mean
+2544,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,968.4383051442929,r,mean
+2545,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,980.4251928568291,r,mean
+2546,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,991.8463053238881,r,mean
+2547,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,1000.8764501889821,r,mean
+2548,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,1008.6733779792414,r,mean
+2549,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,1017.0240777159902,r,mean
+2550,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,1024.0579482200594,r,mean
+2551,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,1031.21582646756,r,mean
+2552,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,1037.707823846369,r,mean
+2553,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,1042.6707280220032,r,mean
+2554,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,1048.803059960825,r,mean
+2555,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,1053.9783249839427,r,mean
+2556,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,1058.8444085466192,r,mean
+2557,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,1064.9841759004166,r,mean
+2558,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,1069.7009429751317,r,mean
+2559,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,1074.0152202206746,r,mean
+2560,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,1078.1394169343598,r,mean
+2561,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,1082.8309980043405,r,mean
+2562,Sutton Place,2023-10-01,842.8843412202657,r,mean
+2563,Sutton Place,2024-01-01,841.1243478528592,r,mean
+2564,Sutton Place,2024-04-01,842.2920663108201,r,mean
+2565,Sutton Place,2024-07-01,842.0020803841675,r,mean
+2566,Sutton Place,2024-10-01,843.0465821794234,r,mean
+2567,Sutton Place,2025-01-01,845.7281348034727,r,mean
+2568,Sutton Place,2025-04-01,849.2739179766337,r,mean
+2569,Sutton Place,2025-07-01,852.656679777569,r,mean
+2570,Sutton Place,2025-10-01,856.4117143181888,r,mean
+2571,Sutton Place,2026-01-01,860.5749421090492,r,mean
+2572,Sutton Place,2026-04-01,864.9651436916066,r,mean
+2573,Sutton Place,2026-07-01,869.352581701516,r,mean
+2574,Sutton Place,2026-10-01,873.8466695637686,r,mean
+2575,Sutton Place,2027-01-01,878.45230146978,r,mean
+2576,Sutton Place,2027-04-01,883.1289749260098,r,mean
+2577,Sutton Place,2027-07-01,887.8264178658112,r,mean
+2578,Sutton Place,2027-10-01,892.5677317384251,r,mean
+2579,Sutton Place,2028-01-01,897.3537803056042,r,mean
+2580,Sutton Place,2028-04-01,902.1757869543485,r,mean
+2581,Sutton Place,2028-07-01,907.022943352219,r,mean
+2582,Sutton Place,2028-10-01,911.9002794560078,r,mean
+2583,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,5015.261253065663,r,mean
+2584,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,5035.299281165154,r,mean
+2585,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,5025.240221308305,r,mean
+2586,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,5033.554175434645,r,mean
+2587,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,5103.780681065474,r,mean
+2588,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,5143.379407452671,r,mean
+2589,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,5178.010357938263,r,mean
+2590,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,5216.110665799863,r,mean
+2591,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,5265.468129144098,r,mean
+2592,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,5309.712334556455,r,mean
+2593,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,5353.396414778369,r,mean
+2594,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,5398.012453415858,r,mean
+2595,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,5444.944279098918,r,mean
+2596,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,5491.296645406083,r,mean
+2597,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,5537.878677983518,r,mean
+2598,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,5584.957218391659,r,mean
+2599,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,5632.780168058224,r,mean
+2600,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,5680.837798258197,r,mean
+2601,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,5729.276247512341,r,mean
+2602,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,5778.145658579049,r,mean
+2603,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,5827.49285183821,r,mean
+2604,el retiro Farm,2023-10-01,8.704751940365789,r,mean
+2605,el retiro Farm,2024-01-01,8.829048591751874,r,mean
+2606,el retiro Farm,2024-04-01,9.112342474801089,r,mean
+2607,el retiro Farm,2024-07-01,9.352999155485898,r,mean
+2608,el retiro Farm,2024-10-01,9.456505594841206,r,mean
+2609,el retiro Farm,2025-01-01,9.550284976433709,r,mean
+2610,el retiro Farm,2025-04-01,9.680435232713426,r,mean
+2611,el retiro Farm,2025-07-01,9.829608372894256,r,mean
+2612,el retiro Farm,2025-10-01,9.922877865179487,r,mean
+2613,el retiro Farm,2026-01-01,10.011275168882701,r,mean
+2614,el retiro Farm,2026-04-01,10.124466870866973,r,mean
+2615,el retiro Farm,2026-07-01,10.257905310360432,r,mean
+2616,el retiro Farm,2026-10-01,10.368199884885891,r,mean
+2617,el retiro Farm,2027-01-01,10.486112374572974,r,mean
+2618,el retiro Farm,2027-04-01,10.594897432031074,r,mean
+2619,el retiro Farm,2027-07-01,10.672261647654162,r,mean
+2620,el retiro Farm,2027-10-01,10.804559715513625,r,mean
+2621,el retiro Farm,2028-01-01,10.938412934286413,r,mean
+2622,el retiro Farm,2028-04-01,11.06691708073792,r,mean
+2623,el retiro Farm,2028-07-01,11.17366167421109,r,mean
+2624,el retiro Farm,2028-10-01,11.302515641646123,r,mean
+2625,la moraleja Property,2023-10-01,16.89546195711053,r,mean
+2626,la moraleja Property,2024-01-01,16.924731589844637,r,mean
+2627,la moraleja Property,2024-04-01,16.781915480718652,r,mean
+2628,la moraleja Property,2024-07-01,16.709395506836344,r,mean
+2629,la moraleja Property,2024-10-01,16.602648185277268,r,mean
+2630,la moraleja Property,2025-01-01,16.590335782274938,r,mean
+2631,la moraleja Property,2025-04-01,16.56629541562585,r,mean
+2632,la moraleja Property,2025-07-01,16.54417840663594,r,mean
+2633,la moraleja Property,2025-10-01,16.474953896465685,r,mean
+2634,la moraleja Property,2026-01-01,16.435237603779548,r,mean
+2635,la moraleja Property,2026-04-01,16.44553149261582,r,mean
+2636,la moraleja Property,2026-07-01,16.351326825184387,r,mean
+2637,la moraleja Property,2026-10-01,16.324836319036933,r,mean
+2638,la moraleja Property,2027-01-01,16.289409404158846,r,mean
+2639,la moraleja Property,2027-04-01,16.26931172195581,r,mean
+2640,la moraleja Property,2027-07-01,16.18710934847387,r,mean
+2641,la moraleja Property,2027-10-01,16.177125417981788,r,mean
+2642,la moraleja Property,2028-01-01,16.11304283417212,r,mean
+2643,la moraleja Property,2028-04-01,16.0357983195795,r,mean
+2644,la moraleja Property,2028-07-01,16.079017154334363,r,mean
+2645,la moraleja Property,2028-10-01,15.99731120539868,r,mean
+2646,la volcana Apartments,2023-10-01,12.620470085466666,r,mean
+2647,la volcana Apartments,2024-01-01,12.713183590792477,r,mean
+2648,la volcana Apartments,2024-04-01,13.033487880480616,r,mean
+2649,la volcana Apartments,2024-07-01,13.418860342853243,r,mean
+2650,la volcana Apartments,2024-10-01,13.501768014255171,r,mean
+2651,la volcana Apartments,2025-01-01,13.617303864047978,r,mean
+2652,la volcana Apartments,2025-04-01,13.757700251244632,r,mean
+2653,la volcana Apartments,2025-07-01,13.944266570787246,r,mean
+2654,la volcana Apartments,2025-10-01,14.050729130833556,r,mean
+2655,la volcana Apartments,2026-01-01,14.171629646861577,r,mean
+2656,la volcana Apartments,2026-04-01,14.3072748308875,r,mean
+2657,la volcana Apartments,2026-07-01,14.405193009804306,r,mean
+2658,la volcana Apartments,2026-10-01,14.53580876675618,r,mean
+2659,la volcana Apartments,2027-01-01,14.674109118196577,r,mean
+2660,la volcana Apartments,2027-04-01,14.801258862756926,r,mean
+2661,la volcana Apartments,2027-07-01,14.936519307170446,r,mean
+2662,la volcana Apartments,2027-10-01,15.039649007627563,r,mean
+2663,la volcana Apartments,2028-01-01,15.179367395797446,r,mean
+2664,la volcana Apartments,2028-04-01,15.254026965231802,r,mean
+2665,la volcana Apartments,2028-07-01,15.37362855888794,r,mean
+2666,la volcana Apartments,2028-10-01,15.552556129675335,r,mean
+2667,lagasca Property,2023-10-01,22.893082950359236,r,mean
+2668,lagasca Property,2024-01-01,23.428328121022783,r,mean
+2669,lagasca Property,2024-04-01,23.706751763692296,r,mean
+2670,lagasca Property,2024-07-01,23.83129733078519,r,mean
+2671,lagasca Property,2024-10-01,23.963934275662925,r,mean
+2672,lagasca Property,2025-01-01,24.07886693400728,r,mean
+2673,lagasca Property,2025-04-01,24.134109767703404,r,mean
+2674,lagasca Property,2025-07-01,24.202993039927946,r,mean
+2675,lagasca Property,2025-10-01,24.263802640774774,r,mean
+2676,lagasca Property,2026-01-01,24.30370146615188,r,mean
+2677,lagasca Property,2026-04-01,24.348544732524893,r,mean
+2678,lagasca Property,2026-07-01,24.402193163894804,r,mean
+2679,lagasca Property,2026-10-01,24.431916488554627,r,mean
+2680,lagasca Property,2027-01-01,24.50966731911327,r,mean
+2681,lagasca Property,2027-04-01,24.577756495807655,r,mean
+2682,lagasca Property,2027-07-01,24.638170328829293,r,mean
+2683,lagasca Property,2027-10-01,24.68867622445928,r,mean
+2684,lagasca Property,2028-01-01,24.713542781856148,r,mean
+2685,lagasca Property,2028-04-01,24.773483359007,r,mean
+2686,lagasca Property,2028-07-01,24.81888132893657,r,mean
+2687,lagasca Property,2028-10-01,24.863433832089186,r,mean
+2688,Patricia Manor Place,2023-10-01,882.841639085221,r,lower
+2689,Patricia Manor Place,2024-01-01,881.2279140913053,r,lower
+2690,Patricia Manor Place,2024-04-01,883.4575006134006,r,lower
+2691,Patricia Manor Place,2024-07-01,885.7365332515864,r,lower
+2692,Patricia Manor Place,2024-10-01,892.2107397733289,r,lower
+2693,Patricia Manor Place,2025-01-01,898.3739355118687,r,lower
+2694,Patricia Manor Place,2025-04-01,904.3239322749606,r,lower
+2695,Patricia Manor Place,2025-07-01,910.3793197506592,r,lower
+2696,Patricia Manor Place,2025-10-01,916.0690898582653,r,lower
+2697,Patricia Manor Place,2026-01-01,921.847343592725,r,lower
+2698,Patricia Manor Place,2026-04-01,927.6959827934979,r,lower
+2699,Patricia Manor Place,2026-07-01,933.5781266709016,r,lower
+2700,Patricia Manor Place,2026-10-01,939.5416061456531,r,lower
+2701,Patricia Manor Place,2027-01-01,945.5383374947777,r,lower
+2702,Patricia Manor Place,2027-04-01,951.5701135942393,r,lower
+2703,Patricia Manor Place,2027-07-01,957.640893677681,r,lower
+2704,Patricia Manor Place,2027-10-01,963.7458615484016,r,lower
+2705,Patricia Manor Place,2028-01-01,969.8902871173979,r,lower
+2706,Patricia Manor Place,2028-04-01,976.074239616589,r,lower
+2707,Patricia Manor Place,2028-07-01,982.2975721868831,r,lower
+2708,Patricia Manor Place,2028-10-01,988.5610626333948,r,lower
+2709,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,910.265499831922,r,lower
+2710,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,925.0422805917311,r,lower
+2711,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,950.9217496001665,r,lower
+2712,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,972.90975592248,r,lower
+2713,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,988.3549564413663,r,lower
+2714,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,1003.5774055283108,r,lower
+2715,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,1013.6176901969491,r,lower
+2716,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,1025.2926440902884,r,lower
+2717,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,1036.3324719240918,r,lower
+2718,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,1045.3303985651291,r,lower
+2719,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,1054.5672021771597,r,lower
+2720,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,1062.4941264170657,r,lower
+2721,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,1069.944577581447,r,lower
+2722,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,1082.7040214447638,r,lower
+2723,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,1093.9569794638762,r,lower
+2724,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,1102.1749976790059,r,lower
+2725,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,1111.467677601881,r,lower
+2726,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,1117.9175384543923,r,lower
+2727,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,1125.667775003267,r,lower
+2728,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,1136.00886689099,r,lower
+2729,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,1143.0619907064488,r,lower
+2730,Sutton Place,2023-10-01,842.8843412202657,r,lower
+2731,Sutton Place,2024-01-01,840.2419362807835,r,lower
+2732,Sutton Place,2024-04-01,840.4012545291921,r,lower
+2733,Sutton Place,2024-07-01,839.0680594452498,r,lower
+2734,Sutton Place,2024-10-01,839.0556435519752,r,lower
+2735,Sutton Place,2025-01-01,840.6371662250672,r,lower
+2736,Sutton Place,2025-04-01,843.0618200310755,r,lower
+2737,Sutton Place,2025-07-01,845.313657677013,r,lower
+2738,Sutton Place,2025-10-01,847.9262157005979,r,lower
+2739,Sutton Place,2026-01-01,850.932680444071,r,lower
+2740,Sutton Place,2026-04-01,854.153618242107,r,lower
+2741,Sutton Place,2026-07-01,857.3617132484555,r,lower
+2742,Sutton Place,2026-10-01,860.6650294763972,r,lower
+2743,Sutton Place,2027-01-01,864.0679549750538,r,lower
+2744,Sutton Place,2027-04-01,867.5303061576243,r,lower
+2745,Sutton Place,2027-07-01,871.0024664510664,r,lower
+2746,Sutton Place,2027-10-01,874.5070475170234,r,lower
+2747,Sutton Place,2028-01-01,878.0447465609487,r,lower
+2748,Sutton Place,2028-04-01,881.6068286657429,r,lower
+2749,Sutton Place,2028-07-01,885.1826167490237,r,lower
+2750,Sutton Place,2028-10-01,888.7769456224739,r,lower
+2751,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,5015.261253065663,r,lower
+2752,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,5019.089383264885,r,lower
+2753,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,4992.840435202988,r,lower
+2754,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,4984.963354602004,r,lower
+2755,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,5038.399965325942,r,lower
+2756,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,5060.970010127154,r,lower
+2757,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,5078.45066755756,r,lower
+2758,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,5099.16566331244,r,lower
+2759,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,5130.695865543589,r,lower
+2760,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,5156.976551810466,r,lower
+2761,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,5182.486764104156,r,lower
+2762,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,5208.677450102384,r,lower
+2763,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,5236.876261823512,r,lower
+2764,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,5264.277764815658,r,lower
+2765,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,5291.664534534757,r,lower
+2766,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,5319.290632097686,r,lower
+2767,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,5347.3887702151915,r,lower
+2768,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,5375.469364020896,r,lower
+2769,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,5403.669788198645,r,lower
+2770,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,5432.035080378868,r,lower
+2771,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,5460.6065566741,r,lower
+2772,el retiro Farm,2023-10-01,8.704751940365789,r,lower
+2773,el retiro Farm,2024-01-01,8.304995835573028,r,lower
+2774,el retiro Farm,2024-04-01,8.295786189904044,r,lower
+2775,el retiro Farm,2024-07-01,8.322686111415782,r,lower
+2776,el retiro Farm,2024-10-01,8.270281706577308,r,lower
+2777,el retiro Farm,2025-01-01,8.186569307310311,r,lower
+2778,el retiro Farm,2025-04-01,8.223747955784782,r,lower
+2779,el retiro Farm,2025-07-01,8.224034242529262,r,lower
+2780,el retiro Farm,2025-10-01,8.182533668798275,r,lower
+2781,el retiro Farm,2026-01-01,8.130822124729846,r,lower
+2782,el retiro Farm,2026-04-01,8.176148166358733,r,lower
+2783,el retiro Farm,2026-07-01,8.122233965150604,r,lower
+2784,el retiro Farm,2026-10-01,8.171033897125996,r,lower
+2785,el retiro Farm,2027-01-01,8.11191171329226,r,lower
+2786,el retiro Farm,2027-04-01,8.140010472223382,r,lower
+2787,el retiro Farm,2027-07-01,8.14273556870057,r,lower
+2788,el retiro Farm,2027-10-01,8.159056776363972,r,lower
+2789,el retiro Farm,2028-01-01,8.131459154564428,r,lower
+2790,el retiro Farm,2028-04-01,8.2050960173891,r,lower
+2791,el retiro Farm,2028-07-01,8.232935256364758,r,lower
+2792,el retiro Farm,2028-10-01,8.212048610849973,r,lower
+2793,la moraleja Property,2023-10-01,16.89546195711053,r,lower
+2794,la moraleja Property,2024-01-01,16.357876794912915,r,lower
+2795,la moraleja Property,2024-04-01,15.974981685760733,r,lower
+2796,la moraleja Property,2024-07-01,15.724968443082384,r,lower
+2797,la moraleja Property,2024-10-01,15.435210923176465,r,lower
+2798,la moraleja Property,2025-01-01,15.317317104144443,r,lower
+2799,la moraleja Property,2025-04-01,15.151967538375711,r,lower
+2800,la moraleja Property,2025-07-01,14.978489502386251,r,lower
+2801,la moraleja Property,2025-10-01,14.85244458917585,r,lower
+2802,la moraleja Property,2026-01-01,14.773670429262625,r,lower
+2803,la moraleja Property,2026-04-01,14.71031263929664,r,lower
+2804,la moraleja Property,2026-07-01,14.615458146673069,r,lower
+2805,la moraleja Property,2026-10-01,14.495266243663927,r,lower
+2806,la moraleja Property,2027-01-01,14.359241504227564,r,lower
+2807,la moraleja Property,2027-04-01,14.295048000663085,r,lower
+2808,la moraleja Property,2027-07-01,14.114958667718762,r,lower
+2809,la moraleja Property,2027-10-01,13.953467217430033,r,lower
+2810,la moraleja Property,2028-01-01,13.905858080541108,r,lower
+2811,la moraleja Property,2028-04-01,13.872041296708845,r,lower
+2812,la moraleja Property,2028-07-01,13.728605737192566,r,lower
+2813,la moraleja Property,2028-10-01,13.679581521054331,r,lower
+2814,la volcana Apartments,2023-10-01,12.620470085466666,r,lower
+2815,la volcana Apartments,2024-01-01,11.942482525984088,r,lower
+2816,la volcana Apartments,2024-04-01,11.930059765042339,r,lower
+2817,la volcana Apartments,2024-07-01,12.003840396622424,r,lower
+2818,la volcana Apartments,2024-10-01,11.89371510734479,r,lower
+2819,la volcana Apartments,2025-01-01,11.755294658340283,r,lower
+2820,la volcana Apartments,2025-04-01,11.788280003722907,r,lower
+2821,la volcana Apartments,2025-07-01,11.742563745181899,r,lower
+2822,la volcana Apartments,2025-10-01,11.717889399893851,r,lower
+2823,la volcana Apartments,2026-01-01,11.647711973881764,r,lower
+2824,la volcana Apartments,2026-04-01,11.596422098529525,r,lower
+2825,la volcana Apartments,2026-07-01,11.590361761511263,r,lower
+2826,la volcana Apartments,2026-10-01,11.5692641869312,r,lower
+2827,la volcana Apartments,2027-01-01,11.549613435601868,r,lower
+2828,la volcana Apartments,2027-04-01,11.489050712252228,r,lower
+2829,la volcana Apartments,2027-07-01,11.52578816186452,r,lower
+2830,la volcana Apartments,2027-10-01,11.513503971021777,r,lower
+2831,la volcana Apartments,2028-01-01,11.518000399428336,r,lower
+2832,la volcana Apartments,2028-04-01,11.510164536610455,r,lower
+2833,la volcana Apartments,2028-07-01,11.553836464250065,r,lower
+2834,la volcana Apartments,2028-10-01,11.545285158302534,r,lower
+2835,lagasca Property,2023-10-01,22.893082950359236,r,lower
+2836,lagasca Property,2024-01-01,23.786703759726418,r,lower
+2837,lagasca Property,2024-04-01,24.227387929136075,r,lower
+2838,lagasca Property,2024-07-01,24.43654828085976,r,lower
+2839,lagasca Property,2024-10-01,24.70661492655981,r,lower
+2840,lagasca Property,2025-01-01,24.963134071047318,r,lower
+2841,lagasca Property,2025-04-01,25.06114807119466,r,lower
+2842,lagasca Property,2025-07-01,25.209929243587325,r,lower
+2843,lagasca Property,2025-10-01,25.32486472916385,r,lower
+2844,lagasca Property,2026-01-01,25.49855676556832,r,lower
+2845,lagasca Property,2026-04-01,25.594543957059827,r,lower
+2846,lagasca Property,2026-07-01,25.72482285779788,r,lower
+2847,lagasca Property,2026-10-01,25.82773319154442,r,lower
+2848,lagasca Property,2027-01-01,25.96716365027586,r,lower
+2849,lagasca Property,2027-04-01,26.125860648623092,r,lower
+2850,lagasca Property,2027-07-01,26.203517804586824,r,lower
+2851,lagasca Property,2027-10-01,26.271002030116335,r,lower
+2852,lagasca Property,2028-01-01,26.37411821558922,r,lower
+2853,lagasca Property,2028-04-01,26.475652891986957,r,lower
+2854,lagasca Property,2028-07-01,26.6081653634814,r,lower
+2855,lagasca Property,2028-10-01,26.674878685652452,r,lower
+2856,Patricia Manor Place,2023-10-01,882.841639085221,r,upper
+2857,Patricia Manor Place,2024-01-01,884.3281278815303,r,upper
+2858,Patricia Manor Place,2024-04-01,889.980575237335,r,upper
+2859,Patricia Manor Place,2024-07-01,895.774986542104,r,upper
+2860,Patricia Manor Place,2024-10-01,905.8567597914695,r,upper
+2861,Patricia Manor Place,2025-01-01,915.6929884317442,r,upper
+2862,Patricia Manor Place,2025-04-01,925.3763347713633,r,upper
+2863,Patricia Manor Place,2025-07-01,935.2298155627146,r,upper
+2864,Patricia Manor Place,2025-10-01,944.7710109260513,r,upper
+2865,Patricia Manor Place,2026-01-01,954.4642179236475,r,upper
+2866,Patricia Manor Place,2026-04-01,964.2920340377907,r,upper
+2867,Patricia Manor Place,2026-07-01,974.2173041756711,r,upper
+2868,Patricia Manor Place,2026-10-01,984.2906904138747,r,upper
+2869,Patricia Manor Place,2027-01-01,994.4631640112976,r,upper
+2870,Patricia Manor Place,2027-04-01,1004.7373713233452,r,upper
+2871,Patricia Manor Place,2027-07-01,1015.1182812110271,r,upper
+2872,Patricia Manor Place,2027-10-01,1025.6016313861955,r,upper
+2873,Patricia Manor Place,2028-01-01,1036.1938184817639,r,upper
+2874,Patricia Manor Place,2028-04-01,1046.8957761997444,r,upper
+2875,Patricia Manor Place,2028-07-01,1057.7082133788797,r,upper
+2876,Patricia Manor Place,2028-10-01,1068.6328378156454,r,upper
+2877,Regency - Tanglewood - Marquee - Wildwood,2023-10-01,910.265499831922,r,upper
+2878,Regency - Tanglewood - Marquee - Wildwood,2024-01-01,926.8468812288553,r,upper
+2879,Regency - Tanglewood - Marquee - Wildwood,2024-04-01,946.7950732179224,r,upper
+2880,Regency - Tanglewood - Marquee - Wildwood,2024-07-01,963.41091024237,r,upper
+2881,Regency - Tanglewood - Marquee - Wildwood,2024-10-01,971.6795199772907,r,upper
+2882,Regency - Tanglewood - Marquee - Wildwood,2025-01-01,980.2591273702747,r,upper
+2883,Regency - Tanglewood - Marquee - Wildwood,2025-04-01,987.4810027010221,r,upper
+2884,Regency - Tanglewood - Marquee - Wildwood,2025-07-01,994.9771487918778,r,upper
+2885,Regency - Tanglewood - Marquee - Wildwood,2025-10-01,1000.2732359372358,r,upper
+2886,Regency - Tanglewood - Marquee - Wildwood,2026-01-01,1003.5083187280943,r,upper
+2887,Regency - Tanglewood - Marquee - Wildwood,2026-04-01,1009.6043188384513,r,upper
+2888,Regency - Tanglewood - Marquee - Wildwood,2026-07-01,1011.4012956001001,r,upper
+2889,Regency - Tanglewood - Marquee - Wildwood,2026-10-01,1013.2165353544145,r,upper
+2890,Regency - Tanglewood - Marquee - Wildwood,2027-01-01,1018.8342536885154,r,upper
+2891,Regency - Tanglewood - Marquee - Wildwood,2027-04-01,1022.9197637515097,r,upper
+2892,Regency - Tanglewood - Marquee - Wildwood,2027-07-01,1027.3524529719998,r,upper
+2893,Regency - Tanglewood - Marquee - Wildwood,2027-10-01,1030.4374676197608,r,upper
+2894,Regency - Tanglewood - Marquee - Wildwood,2028-01-01,1032.4331637808937,r,upper
+2895,Regency - Tanglewood - Marquee - Wildwood,2028-04-01,1037.2839469323446,r,upper
+2896,Regency - Tanglewood - Marquee - Wildwood,2028-07-01,1040.7788115210894,r,upper
+2897,Regency - Tanglewood - Marquee - Wildwood,2028-10-01,1041.692043100991,r,upper
+2898,Sutton Place,2023-10-01,842.8843412202657,r,upper
+2899,Sutton Place,2024-01-01,842.0067594249348,r,upper
+2900,Sutton Place,2024-04-01,844.1849935379864,r,upper
+2901,Sutton Place,2024-07-01,844.9429158123223,r,upper
+2902,Sutton Place,2024-10-01,847.0517184280066,r,upper
+2903,Sutton Place,2025-01-01,850.8437083085867,r,upper
+2904,Sutton Place,2025-04-01,855.5240769767489,r,upper
+2905,Sutton Place,2025-07-01,860.054266249962,r,upper
+2906,Sutton Place,2025-10-01,864.9713762366404,r,upper
+2907,Sutton Place,2026-01-01,870.3141518366822,r,upper
+2908,Sutton Place,2026-04-01,875.8996234154322,r,upper
+2909,Sutton Place,2026-07-01,881.4956569588379,r,upper
+2910,Sutton Place,2026-10-01,887.2130775500333,r,upper
+2911,Sutton Place,2027-01-01,893.0573453352406,r,upper
+2912,Sutton Place,2027-04-01,898.9876871790731,r,upper
+2913,Sutton Place,2027-07-01,904.953217154131,r,upper
+2914,Sutton Place,2027-10-01,910.9775855804277,r,upper
+2915,Sutton Place,2028-01-01,917.0618784947728,r,upper
+2916,Sutton Place,2028-04-01,923.1973299200608,r,upper
+2917,Sutton Place,2028-07-01,929.3730505850582,r,upper
+2918,Sutton Place,2028-10-01,935.5943229667697,r,upper
+2919,Turks (Approx) - Miami S. Beach 5 stars,2023-10-01,5015.261253065663,r,upper
+2920,Turks (Approx) - Miami S. Beach 5 stars,2024-01-01,5051.509179065423,r,upper
+2921,Turks (Approx) - Miami S. Beach 5 stars,2024-04-01,5057.744791901081,r,upper
+2922,Turks (Approx) - Miami S. Beach 5 stars,2024-07-01,5082.45973241742,r,upper
+2923,Turks (Approx) - Miami S. Beach 5 stars,2024-10-01,5169.795643493717,r,upper
+2924,Turks (Approx) - Miami S. Beach 5 stars,2025-01-01,5226.858831827103,r,upper
+2925,Turks (Approx) - Miami S. Beach 5 stars,2025-04-01,5279.191245837566,r,upper
+2926,Turks (Approx) - Miami S. Beach 5 stars,2025-07-01,5335.347042951382,r,upper
+2927,Turks (Approx) - Miami S. Beach 5 stars,2025-10-01,5403.327911657552,r,upper
+2928,Turks (Approx) - Miami S. Beach 5 stars,2026-01-01,5466.455939553886,r,upper
+2929,Turks (Approx) - Miami S. Beach 5 stars,2026-04-01,5529.36209708522,r,upper
+2930,Turks (Approx) - Miami S. Beach 5 stars,2026-07-01,5593.583538410188,r,upper
+2931,Turks (Approx) - Miami S. Beach 5 stars,2026-10-01,5660.565267133721,r,upper
+2932,Turks (Approx) - Miami S. Beach 5 stars,2027-01-01,5727.322708358807,r,upper
+2933,Turks (Approx) - Miami S. Beach 5 stars,2027-04-01,5794.695431798019,r,upper
+2934,Turks (Approx) - Miami S. Beach 5 stars,2027-07-01,5862.966745051063,r,upper
+2935,Turks (Approx) - Miami S. Beach 5 stars,2027-10-01,5932.403728620261,r,upper
+2936,Turks (Approx) - Miami S. Beach 5 stars,2028-01-01,6002.478965881893,r,upper
+2937,Turks (Approx) - Miami S. Beach 5 stars,2028-04-01,6073.351100613376,r,upper
+2938,Turks (Approx) - Miami S. Beach 5 stars,2028-07-01,6145.079055212105,r,upper
+2939,Turks (Approx) - Miami S. Beach 5 stars,2028-10-01,6217.7189438527685,r,upper
+2940,el retiro Farm,2023-10-01,8.704751940365789,r,upper
+2941,el retiro Farm,2024-01-01,9.320843047045457,r,upper
+2942,el retiro Farm,2024-04-01,9.924564537035375,r,upper
+2943,el retiro Farm,2024-07-01,10.389540769229903,r,upper
+2944,el retiro Farm,2024-10-01,10.675017148037366,r,upper
+2945,el retiro Farm,2025-01-01,10.948929997395316,r,upper
+2946,el retiro Farm,2025-04-01,11.240498279872048,r,upper
+2947,el retiro Farm,2025-07-01,11.568928804971748,r,upper
+2948,el retiro Farm,2025-10-01,11.772014220758509,r,upper
+2949,el retiro Farm,2026-01-01,12.108545286325873,r,upper
+2950,el retiro Farm,2026-04-01,12.359262473988924,r,upper
+2951,el retiro Farm,2026-07-01,12.663534149845631,r,upper
+2952,el retiro Farm,2026-10-01,12.908359875805472,r,upper
+2953,el retiro Farm,2027-01-01,13.234400308848091,r,upper
+2954,el retiro Farm,2027-04-01,13.40563953036894,r,upper
+2955,el retiro Farm,2027-07-01,13.776647029986796,r,upper
+2956,el retiro Farm,2027-10-01,14.046484721853956,r,upper
+2957,el retiro Farm,2028-01-01,14.3409709108977,r,upper
+2958,el retiro Farm,2028-04-01,14.628814400489988,r,upper
+2959,el retiro Farm,2028-07-01,14.93491404085985,r,upper
+2960,el retiro Farm,2028-10-01,15.213330858603102,r,upper
+2961,la moraleja Property,2023-10-01,16.89546195711053,r,upper
+2962,la moraleja Property,2024-01-01,17.29869886864969,r,upper
+2963,la moraleja Property,2024-04-01,17.390246661338495,r,upper
+2964,la moraleja Property,2024-07-01,17.498512316894434,r,upper
+2965,la moraleja Property,2024-10-01,17.54291902071471,r,upper
+2966,la moraleja Property,2025-01-01,17.60860431170771,r,upper
+2967,la moraleja Property,2025-04-01,17.699748425202333,r,upper
+2968,la moraleja Property,2025-07-01,17.777065745657616,r,upper
+2969,la moraleja Property,2025-10-01,17.87032811732935,r,upper
+2970,la moraleja Property,2026-01-01,17.974071412959344,r,upper
+2971,la moraleja Property,2026-04-01,18.01361986266928,r,upper
+2972,la moraleja Property,2026-07-01,18.030380561821026,r,upper
+2973,la moraleja Property,2026-10-01,18.030705273760002,r,upper
+2974,la moraleja Property,2027-01-01,18.119046556991325,r,upper
+2975,la moraleja Property,2027-04-01,18.144342274135763,r,upper
+2976,la moraleja Property,2027-07-01,18.148782058284688,r,upper
+2977,la moraleja Property,2027-10-01,18.205873955604556,r,upper
+2978,la moraleja Property,2028-01-01,18.231968712509577,r,upper
+2979,la moraleja Property,2028-04-01,18.241750487286556,r,upper
+2980,la moraleja Property,2028-07-01,18.298681576618968,r,upper
+2981,la moraleja Property,2028-10-01,18.3149936961122,r,upper
+2982,la volcana Apartments,2023-10-01,12.620470085466666,r,upper
+2983,la volcana Apartments,2024-01-01,13.44740710608551,r,upper
+2984,la volcana Apartments,2024-04-01,14.128246176695622,r,upper
+2985,la volcana Apartments,2024-07-01,14.805402594680634,r,upper
+2986,la volcana Apartments,2024-10-01,15.206689868728796,r,upper
+2987,la volcana Apartments,2025-01-01,15.493826054159756,r,upper
+2988,la volcana Apartments,2025-04-01,15.910319901509606,r,upper
+2989,la volcana Apartments,2025-07-01,16.34436363373272,r,upper
+2990,la volcana Apartments,2025-10-01,16.639763879904617,r,upper
+2991,la volcana Apartments,2026-01-01,16.96241127976459,r,upper
+2992,la volcana Apartments,2026-04-01,17.2811720281196,r,upper
+2993,la volcana Apartments,2026-07-01,17.569796421484497,r,upper
+2994,la volcana Apartments,2026-10-01,17.89236648206874,r,upper
+2995,la volcana Apartments,2027-01-01,18.14628239962559,r,upper
+2996,la volcana Apartments,2027-04-01,18.491760862848967,r,upper
+2997,la volcana Apartments,2027-07-01,18.761732213901315,r,upper
+2998,la volcana Apartments,2027-10-01,19.04921911186029,r,upper
+2999,la volcana Apartments,2028-01-01,19.218493344589866,r,upper
+3000,la volcana Apartments,2028-04-01,19.581043321551444,r,upper
+3001,la volcana Apartments,2028-07-01,19.855502158057675,r,upper
+3002,la volcana Apartments,2028-10-01,20.315043996343608,r,upper
+3003,lagasca Property,2023-10-01,22.893082950359236,r,upper
+3004,lagasca Property,2024-01-01,23.11317384973259,r,upper
+3005,lagasca Property,2024-04-01,23.218530669296594,r,upper
+3006,lagasca Property,2024-07-01,23.220096244121823,r,upper
+3007,lagasca Property,2024-10-01,23.257688831175194,r,upper
+3008,lagasca Property,2025-01-01,23.255283331400136,r,upper
+3009,lagasca Property,2025-04-01,23.313848834041064,r,upper
+3010,lagasca Property,2025-07-01,23.307296868289026,r,upper
+3011,lagasca Property,2025-10-01,23.270688814305704,r,upper
+3012,lagasca Property,2026-01-01,23.27850345503667,r,upper
+3013,lagasca Property,2026-04-01,23.27115343077453,r,upper
+3014,lagasca Property,2026-07-01,23.247429241378963,r,upper
+3015,lagasca Property,2026-10-01,23.298693462037683,r,upper
+3016,lagasca Property,2027-01-01,23.300611558948948,r,upper
+3017,lagasca Property,2027-04-01,23.2663637931954,r,upper
+3018,lagasca Property,2027-07-01,23.283652552201417,r,upper
+3019,lagasca Property,2027-10-01,23.212124029914364,r,upper
+3020,lagasca Property,2028-01-01,23.241698452265766,r,upper
+3021,lagasca Property,2028-04-01,23.173893579659914,r,upper
+3022,lagasca Property,2028-07-01,23.244913752359235,r,upper
+3023,lagasca Property,2028-10-01,23.18346370775449,r,upper
